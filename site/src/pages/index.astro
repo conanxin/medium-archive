@@ -1,0 +1,41 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const posts = (await getCollection('blog'))
+  .filter(p => p.data.draft !== true)
+  .sort((a, b) => {
+    const da = a.data.pubDate ? new Date(a.data.pubDate).getTime() : 0;
+    const db = b.data.pubDate ? new Date(b.data.pubDate).getTime() : 0;
+    return db - da;
+  });
+---
+
+<BaseLayout title="Medium Archive">
+  <style>
+    .post-list { list-style: none; padding: 0; margin: 0; }
+    .post-item { padding: 1.25rem 0; border-bottom: 1px solid var(--border); }
+    .post-item:last-child { border-bottom: none; }
+    .post-title { font-size: 1.125rem; font-weight: 600; margin: 0 0 0.25rem; line-height: 1.4; }
+    .post-meta { font-size: 0.8rem; color: var(--muted); margin: 0 0 0.5rem; }
+    .post-desc { font-size: 0.9rem; color: var(--muted); margin: 0; line-height: 1.5; }
+    .stats { font-size: 0.8rem; color: var(--muted); margin-bottom: 1.5rem; }
+  </style>
+
+  <p class="stats">共 {posts.length} 篇文章</p>
+
+  <ul class="post-list">
+    {posts.map(post => (
+      <li class="post-item">
+        <h2 class="post-title">
+          <a href={`/blog/${post.slug}/`}>{post.data.title}</a>
+        </h2>
+        <p class="post-meta">
+          {post.data.pubDate ? new Date(post.data.pubDate).toLocaleDateString('zh-CN') : '未知日期'}
+          {post.data.source ? ` · ${post.data.source}` : ''}
+        </p>
+        {post.data.description && <p class="post-desc">{post.data.description}</p>}
+      </li>
+    ))}
+  </ul>
+</BaseLayout>
