@@ -3,6 +3,7 @@ title: "Whole Earth Catalog 外傳"
 description: "（一）"
 pubDate: 2018-03-31T09:08:30.508Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/whole-earth-catalog-%E5%A4%96%E5%82%B3-ea8a45e548ae"
 draft: false
 ---
 

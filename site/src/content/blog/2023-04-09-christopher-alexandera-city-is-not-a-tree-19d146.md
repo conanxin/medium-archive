@@ -3,6 +3,7 @@ title: "克里斯托弗·亚历山大（Christopher Alexander)：城市并非树
 description: "按：这是一篇探讨设计思想方法的论文，其原则并不限于城市规划。问世以后，反应强烈，当然是“正反”两方面都有。文章对多种著名城市设想方案进行了分析，极为雄辩，逻辑严谨，颇能活跃我们的思路。值得商榷的。一是亚力山大氏的价值观；其次是城市的形成过程总是发生的（Generative)，其复…"
 pubDate: 2023-04-09T12:39:39.640Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E5%85%8B%E9%87%8C%E6%96%AF%E6%89%98%E5%BC%97-%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%A4%A7-christopher-alexander-%E5%9F%8E%E5%B8%82%E5%B9%B6%E9%9D%9E%E6%A0%91%E5%BD%A2-a-city-is-not-a-tree-cb205319d146"
 draft: false
 ---
 

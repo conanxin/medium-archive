@@ -3,6 +3,7 @@ title: "MrBeast：从 YouTube 名人到娱乐帝国的征途"
 description: "这位病毒式视频大师现在有了一位首席执行官来控制兰博基尼（Lambos）上的花费 — — 并让他的“爆款内容”（banger content）获得更广泛的传播。"
 pubDate: 2025-10-02T08:50:57.542Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E4%B8%87%E7%BB%B4%E7%BD%91%E4%B9%8B%E7%88%B6%E7%9A%84%E4%BA%8C%E6%AC%A1%E6%8B%AF%E6%95%91-%E8%92%82%E5%A7%86-%E4%BC%AF%E7%BA%B3%E6%96%AF-%E6%9D%8E%E5%AF%B9%E6%8A%97%E5%B9%B3%E5%8F%B0%E5%9E%84%E6%96%AD%E4%B8%8E-ai-%E5%9B%B4%E5%9F%8E-e6bbc09b04b1"
 draft: false
 ---
 

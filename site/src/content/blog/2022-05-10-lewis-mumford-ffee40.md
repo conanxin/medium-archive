@@ -3,6 +3,7 @@ title: "刘易斯·芒福德（Lewis Mumford）"
 description: "通过机械化、自动化和控制论的指导，这种专制技术终于成功地克服了它最严重的弱点：它最初依赖于具有抵抗性的，有时是积极不服从的伺服机械的依赖，但仍足够人性化，其目的并不总是与系统的目的一致。"
 pubDate: 2022-05-10T11:24:10.749Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E5%88%98%E6%98%93%E6%96%AF-%E8%8A%92%E7%A6%8F%E5%BE%B7-lewis-mumford-c8d9ddffee40"
 draft: false
 ---
 

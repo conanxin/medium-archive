@@ -3,6 +3,7 @@ title: "《Whole Earth》第七章：CoEvolution（共同进化）"
 description: "在他从《全球概览》中挣脱出来后的那个夏天，布兰德和詹宁斯进行了一次跨国公路旅行，探索了新英格兰，然后向北行驶，直到他们到达罗伯特·弗兰克（Robert Frank）的夏日家园的荒野。"
 pubDate: 2022-10-06T13:08:39.450Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/whole-earth-%E7%AC%AC%E4%B8%83%E7%AB%A0-coevolution-%E5%85%B1%E5%90%8C%E8%BF%9B%E5%8C%96-a91dd63f9445"
 draft: false
 ---
 

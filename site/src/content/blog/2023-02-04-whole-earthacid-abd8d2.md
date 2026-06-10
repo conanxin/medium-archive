@@ -3,6 +3,7 @@ title: "《Whole Earth》第三章：迷幻药（Acid）"
 description: "斯图尔特·布兰德（Stewart…"
 pubDate: 2023-02-04T07:23:14.041Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/whole-earth-%E7%AC%AC%E4%B8%89%E7%AB%A0-%E8%BF%B7%E5%B9%BB%E8%8D%AF-acid-71eea5abd8d2"
 draft: false
 ---
 

@@ -3,6 +3,7 @@ title: "第二章：剪切层（Shearing Layers, How Buildings Learn）"
 description: "编译自斯图尔特·布兰德（Stewart Brand）的著作《How Buildings Learn: What Happens After They’re Built》的第一章 — — Shearing Layers"
 pubDate: 2019-04-19T04:23:50.735Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%89%AA%E5%88%87%E5%B1%82-shearing-layers-how-buildings-learn-9c81aa05fcaf"
 draft: false
 ---
 

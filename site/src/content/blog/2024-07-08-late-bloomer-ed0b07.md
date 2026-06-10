@@ -3,6 +3,7 @@ title: "你可能是个大器晚成者（Late Bloomer）"
 description: "保罗·塞尚一直知道自己想成为一名艺术家。他的父亲强迫他进入法学院，但经过两年的犹豫不决，他退学了。1861年，22岁的他前往巴黎追求他的艺术梦想，但被美术学院拒绝，作为一名画家生活困难，并回到了法国南部的家乡，在那里他在他父亲的银行做职员。"
 pubDate: 2024-07-08T14:31:24.300Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E4%BD%A0%E5%8F%AF%E8%83%BD%E6%98%AF%E4%B8%AA%E5%A4%A7%E5%99%A8%E6%99%9A%E6%88%90%E8%80%85-late-bloomer-a3c82ded0b07"
 draft: false
 ---
 

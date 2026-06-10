@@ -3,6 +3,7 @@ title: "Lunch with the FT: Stewart Brand"
 description: "For more than 40 years, Brand has been at the nexus between California’s counterculture and its technological avant-garde. A quintessential…"
 pubDate: 2018-04-07T13:28:50.105Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/lunch-with-the-ft-stewart-brand-8ec4e2e763e4"
 draft: false
 ---
 

@@ -3,6 +3,7 @@ title: "015.Debug之母——葛丽丝·穆雷·霍普（Grace Murray Hopper）"
 description: "今天要介绍的这位厉害了，她是最早的一批程序员，被称为Debug之母，她就是葛丽丝·穆雷·霍普（Grace Murray Hopper，1906年12月9日－1992年1月1日）。霍普生于美国纽约州纽约市，美国海军准将（Rear…"
 pubDate: 2016-01-15T13:46:17.679Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/015-debug%E4%B9%8B%E6%AF%8D-%E8%91%9B%E4%B8%BD%E4%B8%9D-%E7%A9%86%E9%9B%B7-%E9%9C%8D%E6%99%AE-grace-murray-hopper-7f430c87b851"
 draft: false
 ---
 

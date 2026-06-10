@@ -3,6 +3,7 @@ title: "“Look At the World Through the Eyes Of A Fool”"
 description: "像傻瓜那样看世界—— 斯图尔特·布兰特访谈录"
 pubDate: 2018-03-31T09:19:49.252Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/look-at-the-world-through-the-eyes-of-a-fool-db531623da90"
 draft: false
 ---
 

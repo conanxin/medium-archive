@@ -3,6 +3,7 @@ title: "Dynamicland和异想天开的数字对象"
 description: "在迪斯尼乐园以北6小时车程的地方，奥克兰市中心的一栋大楼里有一种计算机科学家版的儿童游乐园。不过，它的数字魔法没那么引人注目；好莱坞的技术未来主义梦想是模糊的全息图，而埃隆·马斯克承诺用火箭将我们推向天空，“Dynamicland”由更普通的材料组成。它既不是虚拟现实（VR），也…"
 pubDate: 2019-11-23T11:57:51.110Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/dynamicland%E5%92%8C%E5%BC%82%E6%83%B3%E5%A4%A9%E5%BC%80%E7%9A%84%E6%95%B0%E5%AD%97%E5%AF%B9%E8%B1%A1-80f756e3e86b"
 draft: false
 ---
 

@@ -3,6 +3,7 @@ title: "《Whole Earth》第十章：Float Upstream（向上游浮动）"
 description: "1994年春天，斯图尔特·布兰德（Stewart Brand）发现自己回到了斯坦福大学的边缘，在属于微软联合创始人保罗·艾伦（Paul Allen）的办公室里露宿。他在那里要感谢圣塔菲研究所（the Santa Fe Institute）董事会主席大卫·利德尔（David…"
 pubDate: 2022-10-23T06:05:57.937Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/whole-earth-%E7%AC%AC%E5%8D%81%E7%AB%A0-float-upstream-%E5%90%91%E4%B8%8A%E6%B8%B8%E6%B5%AE%E5%8A%A8-77f9a0521ae1"
 draft: false
 ---
 

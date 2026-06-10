@@ -3,6 +3,7 @@ title: "Introduction Computers for Children"
 description: "JUST A FEW YEARS AGO people thought of computers as expensive and exotic devices. Their commercial and industrial uses affected ordinary…"
 pubDate: 2018-03-25T02:42:40.928Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/introduction-computers-for-children-98de1d8e8403"
 draft: false
 ---
 

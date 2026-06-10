@@ -3,6 +3,7 @@ title: "使用可编程模块能做的二十件事情（Twenty Things to Do with
 description: "1.制作一个“鬼屋”。当门打开时就发出吱吱声。当有人穿过这个门时，就掉下蜘蛛在人们身上。给南瓜做一个平台，然后托着南瓜在屋里来回移动。"
 pubDate: 2018-03-22T01:58:07.991Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E4%BD%BF%E7%94%A8%E5%8F%AF%E7%BC%96%E7%A8%8B%E6%A8%A1%E5%9D%97%E8%83%BD%E5%81%9A%E7%9A%84%E4%BA%8C%E5%8D%81%E4%BB%B6%E4%BA%8B%E6%83%85-twenty-things-to-do-with-a-programmable-brick-e45ddb184940"
 draft: false
 ---
 

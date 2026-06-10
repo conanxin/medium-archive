@@ -3,6 +3,7 @@ title: "The Eccentric Genius Whose Time May Have Finally Come (Again)"
 description: "I’ve been preoccupied lately with thoughts of marauding broomsticks, genies in bottles, and monkey’s paws."
 pubDate: 2018-04-06T12:46:27.993Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/the-eccentric-genius-whose-time-may-have-finally-come-again-fcdd1f8a9786"
 draft: false
 ---
 

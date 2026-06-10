@@ -3,6 +3,7 @@ title: "You can’t think about thinking without thinking about thinking about s
 description: "Seymour Papert"
 pubDate: 2018-03-22T01:07:56.204Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/you-cant-think-about-thinking-without-thinking-about-thinking-about-something-3d7c3e213136"
 draft: false
 ---
 

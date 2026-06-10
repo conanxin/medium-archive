@@ -3,6 +3,7 @@ title: "蒂姆·伯纳斯-李（Tim Berners-Lee）：语义网"
 description: "一种对计算机有意义的新形式的Web内容将释放一场新可能性的革命"
 pubDate: 2025-10-02T08:27:42.657Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E8%92%82%E5%A7%86-%E4%BC%AF%E7%BA%B3%E6%96%AF-%E6%9D%8E-tim-berners-lee-%E8%AF%AD%E4%B9%89%E7%BD%91-979231876f34"
 draft: false
 ---
 

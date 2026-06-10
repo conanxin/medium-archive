@@ -3,6 +3,7 @@ title: "Robotic Design Studio: Exploring the Big Ideas of Engineering In a Liber
 description: "We feel it is important for engineering to be part of a liberal arts education because:（文科生为什么要学一些工程的知识？）"
 pubDate: 2018-03-22T02:14:27.423Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/robotic-design-studio-exploring-the-big-ideas-of-engineering-in-a-liberal-arts-90207d2ee518"
 draft: false
 ---
 

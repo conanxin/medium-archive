@@ -3,6 +3,7 @@ title: "Flexport：如何移动世界"
 description: "这家价值 80 亿美元的货运代理成功地将技术带入了一个古老的行业。它设计了一个更大的目标：拥有全球贸易的数据层。"
 pubDate: 2022-06-19T02:00:34.685Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/flexport-%E5%A6%82%E4%BD%95%E7%A7%BB%E5%8A%A8%E4%B8%96%E7%95%8C-605ffa7efac7"
 draft: false
 ---
 

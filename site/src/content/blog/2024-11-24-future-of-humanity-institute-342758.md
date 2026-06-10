@@ -3,6 +3,7 @@ title: "回顾人类未来研究所（Future of Humanity Institute）"
 description: "牛津大学这个有影响力的、饱受争议的研究中心的兴衰，它给我们带来了存在风险的概念。"
 pubDate: 2024-11-24T01:22:06.341Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E5%9B%9E%E9%A1%BE%E4%BA%BA%E7%B1%BB%E6%9C%AA%E6%9D%A5%E7%A0%94%E7%A9%B6%E6%89%80-future-of-humanity-institute-4a4ad6342758"
 draft: false
 ---
 

@@ -3,6 +3,7 @@ title: "《The Charisma Machine》书评：销售有魅力的技术"
 description: "原文：Selling a Charismatic Technology"
 pubDate: 2022-06-09T15:52:36.009Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E4%BB%85%E9%9D%A0%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%94%B5%E8%84%91%E6%97%A0%E6%B3%95%E5%BC%A5%E5%90%88%E6%95%B0%E5%AD%97%E9%B8%BF%E6%B2%9F-c7c747ce3d6c"
 draft: false
 ---
 

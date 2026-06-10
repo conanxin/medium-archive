@@ -3,6 +3,7 @@ title: "Anthropic 正试图在 AI 竞赛中获胜，同时不失其灵魂"
 description: "达里奥·阿莫代伊（Dario Amodei）已经从一位学者转型为一家市值 610 亿美元初创公司的首席执行官。"
 pubDate: 2025-06-13T14:21:40.044Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/anthropic-%E6%AD%A3%E8%AF%95%E5%9B%BE%E5%9C%A8-ai-%E7%AB%9E%E8%B5%9B%E4%B8%AD%E8%8E%B7%E8%83%9C-%E5%90%8C%E6%97%B6%E4%B8%8D%E5%A4%B1%E5%85%B6%E7%81%B5%E9%AD%82-69cb57f9c8ae"
 draft: false
 ---
 

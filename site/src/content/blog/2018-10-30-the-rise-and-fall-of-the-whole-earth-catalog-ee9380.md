@@ -3,6 +3,7 @@ title: "《全球概览》的兴起和衰落（The rise and fall of the Whole Ea
 description: "编译自：The rise and fall of the Whole Earth Catalog"
 pubDate: 2018-10-30T12:55:11.301Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E5%85%A8%E7%90%83%E6%A6%82%E8%A7%88-%E7%9A%84%E5%85%B4%E8%B5%B7%E5%92%8C%E8%A1%B0%E8%90%BD-the-rise-and-fall-of-the-whole-earth-catalog-91989aee9380"
 draft: false
 ---
 

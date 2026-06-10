@@ -3,6 +3,7 @@ title: "《新视觉》：初步课程（Preliminaries）"
 description: "人类发展的领域"
 pubDate: 2023-05-28T14:30:46.373Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E6%96%B0%E8%A7%86%E8%A7%89-%E5%88%9D%E6%AD%A5%E8%AF%BE%E7%A8%8B-preliminaries-31f0f1ae390f"
 draft: false
 ---
 

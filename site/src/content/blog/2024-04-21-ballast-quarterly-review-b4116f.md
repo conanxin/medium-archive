@@ -3,6 +3,7 @@ title: "Ballast Quarterly Review起源"
 description: "《Ballast Quarterly Review》是一份始于1985年的期刊备忘录。它的标题是书籍艺术语言逻辑模棱两可科学和教学的缩写，也是对第一次世界大战期间英国作家、漩涡主义艺术家兼作家P·温德姆·刘易斯创建的短命出版物《BLAST》的遥远暗示。它于2006年停刊。"
 pubDate: 2024-04-21T04:00:02.092Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E8%BF%9E%E7%BA%BF%E5%86%85%E5%B9%95-8-%E5%90%8D-google-%E5%91%98%E5%B7%A5%E5%8F%91%E6%98%8E%E4%BA%86%E7%8E%B0%E4%BB%A3%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-f777d291ae84"
 draft: false
 ---
 

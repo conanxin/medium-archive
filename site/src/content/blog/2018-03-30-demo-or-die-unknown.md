@@ -3,6 +3,7 @@ title: "DEMO OR DIE"
 description: "Everybody experiences far more than he understands. Yet it is experience, rather than understanding, that influences behavior.——Marshall…"
 pubDate: 2018-03-30T16:22:28.017Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/demo-or-die-a10e46aec4c3"
 draft: false
 ---
 

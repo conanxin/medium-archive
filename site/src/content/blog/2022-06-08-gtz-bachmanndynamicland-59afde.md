@@ -3,6 +3,7 @@ title: "Götz Bachmann对Dynamicland的民族志研究"
 description: "原文：Götz Bachmann’s Ethnographic Research on Dynamicland"
 pubDate: 2022-06-08T03:54:34.546Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/g%C3%B6tz-bachmann%E5%AF%B9dynamicland%E7%9A%84%E6%B0%91%E6%97%8F%E5%BF%97%E7%A0%94%E7%A9%B6-cfc76859afde"
 draft: false
 ---
 

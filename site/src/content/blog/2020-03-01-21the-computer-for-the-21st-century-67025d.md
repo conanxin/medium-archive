@@ -3,6 +3,7 @@ title: "21世纪计算(The Computer for the 21st Century)"
 description: "最具深远意义的技术是那些消失在我们视野里的技术。它们将自⼰融⼊⼈们的日常⽣活中以致不易被察觉。"
 pubDate: 2020-03-01T13:43:04.925Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E4%BA%BA%E6%9C%89%E4%BA%BA%E7%9A%84%E7%94%A8%E5%A4%84-%E8%AF%BA%E4%BC%AF%E7%89%B9-%E7%BB%B4%E7%BA%B3-norbert-c01e6abbd225"
 draft: false
 ---
 

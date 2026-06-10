@@ -3,6 +3,7 @@ title: "The Computer Clubhouse: Technological Fluency in the Inner City"
 description: "电脑俱乐部：技术在城市中流淌"
 pubDate: 2018-03-26T15:39:16.992Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E9%BC%A0%E6%A0%87%E7%9A%84%E5%8F%91%E6%98%8E-%E6%81%A9%E6%A0%BC%E5%B0%94%E5%B7%B4%E7%89%B9-4a26118f3fe2"
 draft: false
 ---
 

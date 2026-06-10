@@ -3,6 +3,7 @@ title: "关于设计思维（On Design Thinking）"
 description: "盖恩斯维尔（Gainesville）是佛罗里达州中北部的一座中型城市。它属于亚热带气候，城市很美：街道两旁种满了黑栎、香枫等，建筑上爬满了西班牙苔藓。这个城市也很穷。该市13.4万居民中，近34%生活在联邦贫困线以下 — — 是全国平均水平的两倍多 — —…"
 pubDate: 2020-02-25T05:37:13.628Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E5%85%B3%E4%BA%8E%E8%AE%BE%E8%AE%A1%E6%80%9D%E7%BB%B4-on-design-thinking-e9d70ad8948"
 draft: false
 ---
 

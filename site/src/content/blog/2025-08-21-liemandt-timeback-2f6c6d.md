@@ -3,6 +3,7 @@ title: "把时间还给孩子：Liemandt 用 Timeback 工程化重构学校"
 description: "原文标题：Class Dismissed｜作者：Jeremy Stern｜刊物：Colossus Magazine（Issue 04）2025年8月｜主题：软件大亨 Joe Liemandt 如何把 30 年“把复杂系统做成产品”的方法，迁移到教育领域，推出 Alpha…"
 pubDate: 2025-08-21T15:23:58.461Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E6%8A%8A%E6%97%B6%E9%97%B4%E8%BF%98%E7%BB%99%E5%AD%A9%E5%AD%90-liemandt-%E7%94%A8-timeback-%E5%B7%A5%E7%A8%8B%E5%8C%96%E9%87%8D%E6%9E%84%E5%AD%A6%E6%A0%A1-a2e7532f6c6d"
 draft: false
 ---
 

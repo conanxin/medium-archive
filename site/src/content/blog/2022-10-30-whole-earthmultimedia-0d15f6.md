@@ -3,6 +3,7 @@ title: "《Whole Earth》第五章：Multimedia（多媒体）"
 description: "1965年1月，斯图尔特·布兰德（Stewart Brand）前往东部，为 “美国需要印第安人！”[America Needs Indians!]（现在是雄心勃勃的巡回展）进行又一次筹款。和以前一样，他没有取得什么进展。他向斯图尔特·乌德尔（Stewart…"
 pubDate: 2022-10-30T11:43:24.715Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/whole-earth-%E7%AC%AC%E4%BA%94%E7%AB%A0-multimedia-%E5%A4%9A%E5%AA%92%E4%BD%93-ff2d800d15f6"
 draft: false
 ---
 

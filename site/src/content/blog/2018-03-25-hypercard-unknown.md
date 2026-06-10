@@ -3,6 +3,7 @@ title: "超级卡片软件系统HyperCard"
 description: "一、什么是HyperCard"
 pubDate: 2018-03-25T12:45:05.336Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E6%96%B0%E5%AA%92%E4%BB%8B%E4%B8%8E%E5%88%9B%E6%96%B0%E6%80%9D%E7%BB%B4-%E8%B6%85%E6%96%87%E6%9C%AC-396c03341b42"
 draft: false
 ---
 

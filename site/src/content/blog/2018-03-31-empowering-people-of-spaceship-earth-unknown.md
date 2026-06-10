@@ -3,6 +3,7 @@ title: "Empowering People of Spaceship Earth"
 description: "For a generation that came of age in the late 1960s and early ’70s, three unusual reference books were catalytic consciousness raisers…"
 pubDate: 2018-03-31T09:36:59.285Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/empowering-people-of-spaceship-earth-532c3dbaeb0c"
 draft: false
 ---
 

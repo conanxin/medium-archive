@@ -3,6 +3,7 @@ title: "智利的社会主义控制论 — — 赛博协同控制工程（Cy
 description: "摘要：本文介绍了赛博协同控制工程（Cybersyn Project）的历史，这是智利在萨尔瓦多·阿连德（Salvador…"
 pubDate: 2020-07-01T14:08:39.795Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E6%99%BA%E5%88%A9%E7%9A%84%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%8E%A7%E5%88%B6%E8%AE%BA-%E8%B5%9B%E5%8D%9A%E5%8D%8F%E5%90%8C%E6%8E%A7%E5%88%B6%E5%B7%A5%E7%A8%8B-cybersyn-project-%E7%9A%84%E5%8E%86%E5%8F%B2-f6b6779c5ba8"
 draft: false
 ---
 

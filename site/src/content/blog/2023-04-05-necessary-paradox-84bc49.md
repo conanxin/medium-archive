@@ -3,6 +3,7 @@ title: "必要悖论（Necessary Paradox）的两面性"
 description: "控制论（Cybernetics）是控制与通讯的科学。除非你想追求特殊情况，否则它与机器无关。它主要与生命有关，与维持电路有关。"
 pubDate: 2023-04-05T12:49:58.649Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E5%BF%85%E8%A6%81%E6%82%96%E8%AE%BA-necessary-paradox-%E7%9A%84%E4%B8%A4%E9%9D%A2%E6%80%A7-da95f184bc49"
 draft: false
 ---
 

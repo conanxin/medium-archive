@@ -3,6 +3,7 @@ title: "编译自斯图尔特·布兰德（Stewart Brand）的著作《How Build
 description: "年复一年，旧金山的文化精英们都能看到那些穿着华丽的女士们在公共场所排队等着上洗手间。这一时刻是歌剧年度晚会开幕式的中场休息。歌剧院一楼的女洗手间太小了（男洗手间不是）。自1932年该建筑建成以来，情况一直如此。由于这些女性就在大堂吧旁边排队，她们的困境已经成为一个传统的讨论话题。…"
 pubDate: 2019-04-14T00:59:08.796Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E7%BC%96%E8%AF%91%E8%87%AA%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9-%E5%B8%83%E5%85%B0%E5%BE%B7-stewart-brand-%E7%9A%84%E8%91%97%E4%BD%9C-how-buildings-learn-what-happens-after-theyre-built-%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AB%A0-flow-5b4d10a092de"
 draft: false
 ---
 

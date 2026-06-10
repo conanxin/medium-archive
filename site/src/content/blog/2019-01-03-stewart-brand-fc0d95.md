@@ -3,6 +3,7 @@ title: "侦察员/斯图尔特·布兰德（Stewart Brand）"
 description: "编译自：Digerati: Encounters with the Cyber Elite（中文版《未来英雄》）的第三章 — — THE SCOUT/Stewart Brand"
 pubDate: 2019-01-03T10:54:09.229Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E4%BE%A6%E5%AF%9F%E5%91%98-%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9-%E5%B8%83%E5%85%B0%E5%BE%B7-stewart-brand-8175cefc0d95"
 draft: false
 ---
 

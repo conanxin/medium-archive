@@ -3,6 +3,7 @@ title: "与斯宾塞·张（Spencer Chang）的访谈"
 description: "斯宾塞·张（Spencer Chang）是一位程序员、艺术家和作家，他致力于创造新的互动媒介、网站环境、开放协议以及以本地为中心的应用程序。在过去的一年左右时间里，斯宾塞一直在独立研究他们所称的“社群计算”（communal…"
 pubDate: 2025-01-20T12:32:07.083Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E4%B8%8E%E6%96%AF%E5%AE%BE%E5%A1%9E-%E5%BC%A0-spencer-chang-%E7%9A%84%E8%AE%BF%E8%B0%88-1cf9594ecd6d"
 draft: false
 ---
 

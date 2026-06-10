@@ -3,6 +3,7 @@ title: "史蒂夫·班农（Steve Bannon）：Maga 右翼的教父"
 description: "史蒂夫·班农（Steve Bannon）谈美俄联盟、与“蓝色工党”（Blue Labour）的共鸣及其对现代性的战争。"
 pubDate: 2025-04-01T13:21:21.334Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E5%8F%B2%E8%92%82%E5%A4%AB-%E7%8F%AD%E5%86%9C-steve-bannon-maga-%E5%8F%B3%E7%BF%BC%E7%9A%84%E6%95%99%E7%88%B6-91032e9b7a34"
 draft: false
 ---
 

@@ -3,6 +3,7 @@ title: "远见卓识者 — — 斯图尔特·布兰德（Stewart Brand）"
 description: "编译自《理性》（reason）杂志（网站）在2010年采访斯图尔特·布兰德（Stewart Brand）的一篇文章 — — The Visionary (Whole Earth Catalog founder Stewart Brand on the future, the…"
 pubDate: 2019-06-24T15:06:24.517Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E8%BF%9C%E8%A7%81%E5%8D%93%E8%AF%86%E8%80%85-%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9-%E5%B8%83%E5%85%B0%E5%BE%B7-stewart-brand-d6bf0ca06d0c"
 draft: false
 ---
 

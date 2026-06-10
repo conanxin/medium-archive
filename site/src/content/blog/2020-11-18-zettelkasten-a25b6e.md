@@ -3,6 +3,7 @@ title: "Zettelkasten方法简介"
 description: "编译自：Introduction to the Zettelkasten Method"
 pubDate: 2020-11-18T13:28:33.888Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/zettelkasten%E6%96%B9%E6%B3%95%E7%AE%80%E4%BB%8B-d1f8f4a25b6e"
 draft: false
 ---
 

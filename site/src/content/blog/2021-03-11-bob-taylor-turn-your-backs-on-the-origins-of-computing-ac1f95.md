@@ -3,6 +3,7 @@ title: "Bob Taylor : Turn Your Backs on the Origins of Computing!"
 description: "离开高级研究计划局之后，罗伯特·泰勒（Bob…"
 pubDate: 2021-03-11T19:19:51.813Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/bob-taylor-turn-your-backs-on-the-origins-of-computing-64779bac1f95"
 draft: false
 ---
 

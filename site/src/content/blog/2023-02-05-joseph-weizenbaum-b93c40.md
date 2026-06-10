@@ -3,6 +3,7 @@ title: "约瑟夫·维森鲍姆（Joseph Weizenbaum）的生平与思想"
 description: "这篇文章是《Islands in the Cyberstream: Seeking Havens of Reason in a Programmed Society》一书的介绍性文章。该书是计算机科学家和社会批评家约瑟夫·维森鲍姆（Joseph…"
 pubDate: 2023-02-05T12:25:30.191Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E7%BA%A6%E7%91%9F%E5%A4%AB-%E7%BB%B4%E6%A3%AE%E9%B2%8D%E5%A7%86-joseph-weizenbaum-%E7%9A%84%E7%94%9F%E5%B9%B3%E4%B8%8E%E6%80%9D%E6%83%B3-afad3ab93c40"
 draft: false
 ---
 

@@ -3,6 +3,7 @@ title: "人机共生（Man-Computer Symbiosis，J. C. R. Licklider）"
 description: "编译自：利克莱德（J. C. R. Licklider）的Man-Computer Symbiosis"
 pubDate: 2018-09-02T16:30:26.047Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E4%BA%BA%E6%9C%BA%E5%85%B1%E7%94%9F-man-computer-symbiosis-j-c-r-licklider-58c80f378f0d"
 draft: false
 ---
 

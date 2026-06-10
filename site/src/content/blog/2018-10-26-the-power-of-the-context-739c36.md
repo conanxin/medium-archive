@@ -3,6 +3,7 @@ title: "环境的力量（The Power Of The Context ）"
 description: "2004年2月24日，艾伦·凯（Alan Kay）与Bob Taylor、Butler Lampson和Chuck Thacker一起获得美国国家工程院查尔斯·斯塔克·德雷珀奖之后，艾伦·凯的评论。"
 pubDate: 2018-10-26T14:07:35.763Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E7%8E%AF%E5%A2%83%E7%9A%84%E5%8A%9B%E9%87%8F-the-power-of-the-context-9fcb40739c36"
 draft: false
 ---
 

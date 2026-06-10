@@ -3,6 +3,7 @@ title: "科学界的“海盗”女王 — — 亚历山德拉·埃尔巴金
 description: "在俄罗斯高等经济学院(Higher School of…"
 pubDate: 2020-06-06T13:22:34.027Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E7%A7%91%E5%AD%A6%E7%95%8C%E7%9A%84-%E6%B5%B7%E7%9B%97-%E5%A5%B3%E7%8E%8B-%E4%BA%9A%E5%8E%86%E5%B1%B1%E5%BE%B7%E6%8B%89-%E5%9F%83%E5%B0%94%E5%B7%B4%E9%87%91-alexandra-elbakyan-98b4be975d54"
 draft: false
 ---
 

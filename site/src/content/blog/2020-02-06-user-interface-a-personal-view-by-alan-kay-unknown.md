@@ -3,6 +3,7 @@ title: "“User interface, a personal view by Alan Kay"
 description: "During the late 1960s, while a graduate student at the University of Utah, Alan Kay studied with Ivan Sutherland, the pioneering scientist…"
 pubDate: 2020-02-06T08:33:33.950Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E7%94%A8%E6%88%B7%E7%95%8C%E9%9D%A2-%E4%B8%AA%E4%BA%BA%E8%A7%86%E8%A7%92-%E8%89%BE%E4%BC%A6-%E5%87%AF-771b71e27ca"
 draft: false
 ---
 

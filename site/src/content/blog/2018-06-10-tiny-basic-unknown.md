@@ -3,6 +3,7 @@ title: "《黑客:计算机革命的英雄》 — — 第十一章：Tiny BASIC"
 description: "20世纪70年代的硬件黑客对组装一台Altair计算机并扩展其功能的急切程度，与20世纪60年代MIT的黑客钻研PDP-1和PDP-6计算机的那股劲头一样欲壑难填。正当此时，围绕着家酿计算机俱乐部出现了一次冲突，正是这次冲突减缓了原先理想化的互助进程，滋生出另一种逐渐高涨的势头，…"
 pubDate: 2018-06-10T08:50:08.020Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E9%BB%91%E5%AE%A2-%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%9D%A9%E5%91%BD%E7%9A%84%E8%8B%B1%E9%9B%84-%E7%AC%AC%E5%8D%81%E4%B8%80%E7%AB%A0-tiny-basic-1b2f68c1c958"
 draft: false
 ---
 

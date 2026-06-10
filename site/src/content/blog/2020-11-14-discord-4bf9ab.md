@@ -3,6 +3,7 @@ title: "Discord是如何(有点意外地)创造了互联网的未来"
 description: "副标题：Discord的创始人只是想创造一种与游戏玩家朋友交流的方式。他们创造了更伟大的东西。"
 pubDate: 2020-11-14T01:01:47.455Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/discord%E6%98%AF%E5%A6%82%E4%BD%95-%E6%9C%89%E7%82%B9%E6%84%8F%E5%A4%96%E5%9C%B0-%E5%88%9B%E9%80%A0%E4%BA%86%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E6%9C%AA%E6%9D%A5-c653ea4bf9ab"
 draft: false
 ---
 

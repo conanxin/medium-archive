@@ -3,6 +3,7 @@ title: "创作的背后：浅谈墨比斯（Moebius）漫画创作"
 description: "谈起欧洲漫画，就会令人想起墨比斯（Moebius）的漫画作品，这位以幻想风格闻名遐迩的漫画泰斗，原名让·吉罗（Jean…"
 pubDate: 2018-03-24T06:29:41.549Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E5%88%9B%E4%BD%9C%E7%9A%84%E8%83%8C%E5%90%8E-%E6%B5%85%E8%B0%88%E5%A2%A8%E6%AF%94%E6%96%AF-moebius-%E6%BC%AB%E7%94%BB%E5%88%9B%E4%BD%9C-1e7706a4acaf"
 draft: false
 ---
 

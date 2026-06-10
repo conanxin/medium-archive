@@ -3,6 +3,7 @@ title: "学习科学的拓荒者 ——Seymour Papert"
 description: "众所周知，美国麻省理工学院的媒体实验室是一个具有传奇色彩的地方，而Seymour…"
 pubDate: 2018-03-20T17:24:23.113Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E5%AD%A6%E4%B9%A0%E7%A7%91%E5%AD%A6%E7%9A%84%E6%8B%93%E8%8D%92%E8%80%85-seymour-papert-90575476e291"
 draft: false
 ---
 

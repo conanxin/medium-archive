@@ -3,6 +3,7 @@ title: "《Whole Earth》第四章：American Indian（美国印第安人）"
 description: "斯图尔特·布兰德（Stewart Brand）在北滩安顿下来后，仍在消化他的LSD经历，同时参加摄影和设计课程，他很快就从迪克·雷蒙德（Dick…"
 pubDate: 2022-11-12T07:35:44.592Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/whole-earth-%E7%AC%AC%E5%9B%9B%E7%AB%A0-american-indian-%E7%BE%8E%E5%9B%BD%E5%8D%B0%E7%AC%AC%E5%AE%89%E4%BA%BA-ed5891244ac4"
 draft: false
 ---
 

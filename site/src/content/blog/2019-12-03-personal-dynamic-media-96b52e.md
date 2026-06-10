@@ -3,6 +3,7 @@ title: "个人动态媒体（Personal Dynamic Media）"
 description: "编译自：Alan Kay和Adele Goldberg的Personal Dynamic Media"
 pubDate: 2019-12-03T13:48:09.314Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E4%B8%AA%E4%BA%BA%E5%8A%A8%E6%80%81%E5%AA%92%E4%BD%93-personal-dynamic-media-a28ffb96b52e"
 draft: false
 ---
 

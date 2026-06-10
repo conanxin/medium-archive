@@ -3,6 +3,7 @@ title: "编目员 The Catalogers"
 description: "每年，世界科幻协会颁发雨果奖（Hugo Awards），表彰当年最佳的科幻和奇幻作品。这是该流派最高的荣誉。"
 pubDate: 2023-05-27T01:50:39.371Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E7%BC%96%E7%9B%AE%E5%91%98-the-catalogers-33446370ea41"
 draft: false
 ---
 

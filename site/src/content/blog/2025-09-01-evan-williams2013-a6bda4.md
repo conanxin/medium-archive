@@ -3,6 +3,7 @@ title: "埃文·威廉姆斯（Evan Williams）：信息高速公路上的一段
 description: "背景：埃文·威廉姆斯（Evan Williams）于 1999 年共同创办 Blogger，2004 年创办 Odeo，2006 年创办 Twitter，2012 年创办 Medium。本文演讲最初于 2013 年 9 月在俄勒冈州波特兰举办的艺术与科技节 XOXO 上发表。"
 pubDate: 2025-09-01T12:48:48.168Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E5%9F%83%E6%96%87-%E5%A8%81%E5%BB%89%E5%A7%86%E6%96%AF-evan-williams-%E4%BF%A1%E6%81%AF%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E4%B8%8A%E7%9A%84%E4%B8%80%E6%AE%B5%E6%97%85%E7%A8%8B-2013-2eb69da6bda4"
 draft: false
 ---
 

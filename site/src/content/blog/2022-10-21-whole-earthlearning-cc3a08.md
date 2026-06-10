@@ -3,6 +3,7 @@ title: "《Whole Earth》第九章：Learning（学习）"
 description: "从直升机上看，布伦特油田平台并不显得庞大。它作为一个小点出现在视野中，消失在茫茫大海中。从苏格兰的阿伯丁送到北海东设得兰盆地的鸬鹚阿尔法平台后，斯图尔特·布兰德（Stewart…"
 pubDate: 2022-10-21T23:37:22.573Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/whole-earth-%E7%AC%AC%E4%B9%9D%E7%AB%A0-learning-%E5%AD%A6%E4%B9%A0-b2f37dcc3a08"
 draft: false
 ---
 

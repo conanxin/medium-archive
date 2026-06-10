@@ -1,0 +1,31 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="关于 - Medium Archive">
+  <style>
+    .about { max-width: var(--max-width); margin: 0 auto; }
+    .about h1 { font-size: 1.5rem; font-weight: 700; margin: 0 0 1.5rem; }
+    .about p { margin: 0 0 1.25rem; line-height: 1.8; }
+    .about a { text-decoration: underline; }
+  </style>
+
+  <div class="about">
+    <h1>关于这个站点</h1>
+    <p>
+      这是 <strong>Conan Xin</strong> 的 Medium 文章存档站。
+    </p>
+    <p>
+      所有文章从 Medium 平台导出，转换为 Markdown 格式，使用 Astro 构建为静态站点。
+      目的是长期保存个人写作，避免平台依赖导致的内容丢失。
+    </p>
+    <p>
+      站点包含从 2015 年至 2026 年的文章，涵盖技术、阅读笔记、社会观察、个人思考等主题。
+      文章以原始发布日期排序，保留原文链接（如可识别）。
+    </p>
+    <p>
+      如有问题，可通过 GitHub 联系：
+      <a href="https://github.com/conanxin" target="_blank" rel="noopener noreferrer">github.com/conanxin</a>
+    </p>
+  </div>
+</BaseLayout>

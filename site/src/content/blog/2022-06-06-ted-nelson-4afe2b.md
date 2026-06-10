@@ -3,6 +3,7 @@ title: "Ted Nelson 探索计算机可能变成什么样子"
 description: "原文：Ted Nelson explores what computers could’ve become"
 pubDate: 2022-06-06T09:59:47.021Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E5%8A%A0%E5%AF%86%E5%88%86%E7%A6%BB%E4%B8%BB%E4%B9%89%E8%80%85-dbdead46ba52"
 draft: false
 ---
 

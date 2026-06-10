@@ -3,6 +3,7 @@ title: "黑山学院（Black Mountain College）"
 description: "学习是一种持续的过程，只要人还会呼吸，教育就应当持续下去。— — 约翰·赖斯（John Rice）"
 pubDate: 2023-03-25T15:45:10.629Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E9%BB%91%E5%B1%B1%E5%AD%A6%E9%99%A2-black-mountain-college-a48a0c26097b"
 draft: false
 ---
 

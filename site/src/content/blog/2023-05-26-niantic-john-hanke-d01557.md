@@ -3,6 +3,7 @@ title: "Niantic 首席执行官约翰·汉克 (John Hanke) 表示，元宇宙已
 description: "John Hanke 是 Niantic 的首席执行官，Niantic 是一家与任天堂和 Pokémon 公司合作制作广受欢迎的Pokémon Go手机游戏的公司，但 John 实际上是在担任 Google 地图高管时将其作为一个 skunkworks…"
 pubDate: 2023-05-26T10:37:02.359Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/niantic-%E9%A6%96%E5%B8%AD%E6%89%A7%E8%A1%8C%E5%AE%98%E7%BA%A6%E7%BF%B0-%E6%B1%89%E5%85%8B-john-hanke-%E8%A1%A8%E7%A4%BA-%E5%85%83%E5%AE%87%E5%AE%99%E5%B7%B2%E7%BB%8F%E5%AD%98%E5%9C%A8-%E5%B9%B6%E4%B8%94%E5%85%85%E6%BB%A1%E4%BA%86%E5%8F%A3%E8%A2%8B%E5%A6%96%E6%80%AA-349df8d01557"
 draft: false
 ---
 

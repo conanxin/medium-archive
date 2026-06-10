@@ -3,6 +3,7 @@ title: "Wiki：约瑟夫·利克莱德（J. C. R. Licklider）"
 description: "约瑟夫·利克莱德(J. C. R. Licklider；1915年3月11日-1990年6月26日)，是美国心理学家和计算机科学家，被认为是计算机科学和通用计算机历史上最重要的人物之一。"
 pubDate: 2020-01-10T12:08:35.823Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/wiki-%E7%BA%A6%E7%91%9F%E5%A4%AB-%E5%88%A9%E5%85%8B%E8%8E%B1%E5%BE%B7-j-c-r-licklider-8147a6ed1215"
 draft: false
 ---
 

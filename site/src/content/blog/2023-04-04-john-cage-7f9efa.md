@@ -3,6 +3,7 @@ title: "约翰·凯奇（John Cage）：声音的新景观"
 description: "在赫伯特·拜尔（Herbert Bayer）和爱德华·斯泰肯（Edward Steichen）重新塑造宣传的视觉景观的同时，驱动他们的装置的包豪斯美学和民主理想主义的融合也在帮助创造音乐结构和表现的平行转型。为了了解这一点，我们需要重新审视作曲家约翰·凯奇（John…"
 pubDate: 2023-04-04T11:54:18.317Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E7%BA%A6%E7%BF%B0-%E5%87%AF%E5%A5%87-john-cage-%E5%A3%B0%E9%9F%B3%E7%9A%84%E6%96%B0%E6%99%AF%E8%A7%82-56744a7f9efa"
 draft: false
 ---
 

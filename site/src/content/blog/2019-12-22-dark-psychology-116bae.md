@@ -3,6 +3,7 @@ title: "大西洋月刊：社交网络的黑暗心理（Dark Psychology）"
 description: "假设圣经中的创世故事是真实的：上帝在六天内创造了宇宙，包括所有物理定律和适用于整个宇宙的所有物理常数。现在想象一下，在21世纪初的某一天，上帝变得无聊了，为了好玩，把引力常数（gravitational…"
 pubDate: 2019-12-22T10:30:06.280Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E5%A4%A7%E8%A5%BF%E6%B4%8B%E6%9C%88%E5%88%8A-%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9C%E7%9A%84%E9%BB%91%E6%9A%97%E5%BF%83%E7%90%86-dark-psychology-ca2685116bae"
 draft: false
 ---
 

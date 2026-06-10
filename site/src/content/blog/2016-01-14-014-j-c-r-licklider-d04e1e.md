@@ -3,6 +3,7 @@ title: "014. 互联网的开山领袖——约瑟夫·利克莱德(J. C. R. Lick
 description: "今天介绍这位被公认为互联网的开山领袖，他就是约瑟夫·利克莱德(J. C. R. Licklider)，国内对他的介绍很少，Wikipedia上关于他竟然都没有中文的介绍。下面就介绍一下："
 pubDate: 2016-01-14T12:31:38.382Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/014-%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E5%BC%80%E5%B1%B1%E9%A2%86%E8%A2%96-%E7%BA%A6%E7%91%9F%E5%A4%AB-%E5%88%A9%E5%85%8B%E8%8E%B1%E5%BE%B7-j-c-r-licklider-852944d04e1e"
 draft: false
 ---
 

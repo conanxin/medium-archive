@@ -3,6 +3,7 @@ title: "阿尔贝•加缪：危险地创作（Create Dangerously）"
 description: "阿尔贝•加缪（Albert Camus）于1957年在乌普萨大学发表的演讲，题目是“Create Dangerously”"
 pubDate: 2021-10-08T15:40:12.878Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E9%98%BF%E5%B0%94%E8%B4%9D-%E5%8A%A0%E7%BC%AA-%E5%8D%B1%E9%99%A9%E5%9C%B0%E5%88%9B%E4%BD%9C-create-dangerously-9b6e6e9ef6aa"
 draft: false
 ---
 

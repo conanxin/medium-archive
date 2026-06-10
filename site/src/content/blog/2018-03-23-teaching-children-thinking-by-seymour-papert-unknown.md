@@ -3,6 +3,7 @@ title: "Teaching Children Thinking(教会孩子思考) by Seymour Papert"
 description: "This paper is dedicated to the hope that someone with power to act will one day see that contemporary research on education is like the…"
 pubDate: 2018-03-23T01:29:22.776Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E6%95%B0%E5%AD%97%E4%B9%8C%E6%89%98%E9%82%A6-%E5%85%A8%E7%90%83%E6%A6%82%E8%A7%88-%E4%B8%AD%E7%9A%84%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF-a7eb86999509"
 draft: false
 ---
 

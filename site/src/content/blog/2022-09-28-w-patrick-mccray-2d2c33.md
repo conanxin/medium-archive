@@ -3,6 +3,7 @@ title: "帕特里克·麦克雷（W. Patrick McCray）：让艺术发挥作用"
 description: "原文：Making Art Do Work"
 pubDate: 2022-09-28T12:53:25.030Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E5%B8%95%E7%89%B9%E9%87%8C%E5%85%8B-%E9%BA%A6%E5%85%8B%E9%9B%B7-w-patrick-mccray-%E8%AE%A9%E8%89%BA%E6%9C%AF%E5%8F%91%E6%8C%A5%E4%BD%9C%E7%94%A8-32414a2d2c33"
 draft: false
 ---
 

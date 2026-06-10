@@ -3,6 +3,7 @@ title: "柯蒂斯·雅文（Curtis Yarvin）：主张君主制、反对民主的
 description: "2021年9月，俄亥俄州的共和党参议员候选人J.D.万斯（J.D. Vance）出现在一个保守派播客节目中，讨论美国该何去何从，而他的提议相当惊人。他敦促唐纳德·特朗普，如果再次当选，要“夺取左派的机构”（seize the institutions of the…"
 pubDate: 2025-02-10T14:08:53.926Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E6%9F%AF%E8%92%82%E6%96%AF-%E9%9B%85%E6%96%87-curtis-yarvin-%E4%B8%BB%E5%BC%A0%E5%90%9B%E4%B8%BB%E5%88%B6-%E5%8F%8D%E5%AF%B9%E6%B0%91%E4%B8%BB%E7%9A%84%E5%8D%9A%E4%B8%BB%E6%98%AF%E8%B0%81-cde0cbe7518c"
 draft: false
 ---
 

@@ -3,6 +3,7 @@ title: "硅谷奇才的跌宕人生：Palmer Luckey的荣耀与争议"
 description: "帕尔默·拉奇（Palmer Luckey）的生活事实是如此独特而怪诞 — — 融合了幻想、疯狂以及改变世界的元素 — — 以至于它们可以印在磁性诗歌磁贴（magnetic poetry…"
 pubDate: 2025-05-18T07:37:30.227Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E7%A1%85%E8%B0%B7%E5%A5%87%E6%89%8D%E7%9A%84%E8%B7%8C%E5%AE%95%E4%BA%BA%E7%94%9F-palmer-luckey%E7%9A%84%E8%8D%A3%E8%80%80%E4%B8%8E%E4%BA%89%E8%AE%AE-de1da9c7b604"
 draft: false
 ---
 

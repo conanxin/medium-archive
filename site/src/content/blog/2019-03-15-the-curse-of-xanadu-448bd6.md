@@ -3,6 +3,7 @@ title: "上都的诅咒（The Curse of Xanadu）"
 description: "编译自：连线杂志（Wired）1995年6月的一篇文章：The Curse of Xanadu，作者是加里·沃尔夫（Gary Wolf）"
 pubDate: 2019-03-15T11:44:05.552Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E4%B8%8A%E9%83%BD%E7%9A%84%E8%AF%85%E5%92%92-the-curse-of-xanadu-b23eb3448bd6"
 draft: false
 ---
 

@@ -3,6 +3,7 @@ title: "The Environmentalists: The Whole Earth Catalog Gets Down to Business"
 description: "You can find out how to build a geodesic dome, the cheapest way to travel overland from Luxembourg to Nepal, where to buy the best…"
 pubDate: 2018-03-31T09:34:34.416Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/the-environmentalists-the-whole-earth-catalog-gets-down-to-business-dad1cf61df34"
 draft: false
 ---
 

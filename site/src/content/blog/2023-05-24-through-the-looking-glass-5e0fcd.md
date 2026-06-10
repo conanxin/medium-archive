@@ -3,6 +3,7 @@ title: "透过镜子（Through the Looking Glass）"
 description: "增强现实正在改变视觉本身。增强现实眼镜等可穿戴硬件将加速这一转变，使计算机能够对我们遇到的一切进行建模和解释。在获得 Snap 的 AR 眼镜的早期使用权后，Modem 与创意工作室 oio 合作探索这种新的观看方式 — — 制作一个界面原型，让我们通过简单地注视与世界互动。"
 pubDate: 2023-05-24T14:07:55.768Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E6%B0%B8%E8%BF%9C%E5%9C%A8-%E6%97%A0%E7%BA%BF%E8%80%B3%E6%9C%BA%E6%98%AF%E5%A2%9E%E5%BC%BA%E7%8E%B0%E5%AE%9E%E8%AE%BE%E5%A4%87-15311351b037"
 draft: false
 ---
 

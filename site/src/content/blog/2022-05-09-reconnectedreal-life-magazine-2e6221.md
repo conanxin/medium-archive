@@ -3,6 +3,7 @@ title: "重新连接（Reconnected，Real Life Magazine）"
 description: "关于网络的传统观点认为，网络的政治性可以被简化为网络的集中化程度：一个中心化（centralized）的网络是为控制而设计的，而一个去中心化（decentralized）或分布式（distributed）的网络是民主的。互联网的早期拥护者认为，它的结构使其去中心化（decentr…"
 pubDate: 2022-05-09T15:20:31.557Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E9%87%8D%E6%96%B0%E8%BF%9E%E6%8E%A5-reconnected-real-life-magazine-a0a02e6221"
 draft: false
 ---
 

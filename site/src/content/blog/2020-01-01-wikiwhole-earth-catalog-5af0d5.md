@@ -3,6 +3,7 @@ title: "Wiki：《全球概览》（Whole Earth Catalog）"
 description: "《全球概览》（Whole Earth Catalog）是斯图尔特·布兰德（Stewart…"
 pubDate: 2020-01-01T09:23:39.843Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/wiki-%E5%85%A8%E7%90%83%E6%A6%82%E8%A7%88-whole-earth-catalog-48a8485af0d5"
 draft: false
 ---
 

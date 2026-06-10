@@ -3,6 +3,7 @@ title: "第四章：关心家事：“大路”（The High Road）"
 description: "编译自斯图尔特·布兰德（Stewart Brand）的著作《How Buildings Learn: What Happens After They’re Built》的第si章"
 pubDate: 2019-06-19T23:12:54.198Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E5%85%B3%E5%BF%83%E5%AE%B6%E4%BA%8B-%E5%A4%A7%E8%B7%AF-the-high-road-4a2b02f2a1d6"
 draft: false
 ---
 

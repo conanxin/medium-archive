@@ -3,6 +3,7 @@ title: "关于道格·恩格尔巴特（Doug Engelbart）的几句话"
 description: "道格·恩格尔巴特（Doug Engelbart）去世了。他的工作一直对作家来说很难解释和解读。"
 pubDate: 2024-07-07T09:20:51.252Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E5%85%B3%E4%BA%8E%E9%81%93%E6%A0%BC-%E6%81%A9%E6%A0%BC%E5%B0%94%E5%B7%B4%E7%89%B9-doug-engelbart-%E7%9A%84%E5%87%A0%E5%8F%A5%E8%AF%9D-c3facc133cca"
 draft: false
 ---
 

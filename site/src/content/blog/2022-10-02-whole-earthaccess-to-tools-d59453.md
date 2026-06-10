@@ -3,6 +3,7 @@ title: "《Whole Earth》第六章：Access to Tools（获得工具）"
 description: "在集思广益的同时，这两对夫妇整夜开车，在高速公路上和高速公路下蜿蜒前行，进入湾区的社区和小巷。斯图尔特（Stewart）和洛伊丝·布兰德（Lois Brand）以及詹姆斯（James）和辛西娅·尼克松（Cynthia…"
 pubDate: 2022-10-02T23:53:17.546Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/whole-earth-%E7%AC%AC%E5%85%AD%E7%AB%A0-access-to-tools-%E8%8E%B7%E5%BE%97%E5%B7%A5%E5%85%B7-44e5aed59453"
 draft: false
 ---
 

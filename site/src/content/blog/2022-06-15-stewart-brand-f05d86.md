@@ -3,6 +3,7 @@ title: "斯图尔特·布兰德（Stewart Brand）看到了未来"
 description: "在从嬉皮士圣人到全球商业顾问的旅程中，Whole Earth Catalog 创始人体现了硅谷不断变化的精神。"
 pubDate: 2022-06-15T15:13:02.378Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9-%E5%B8%83%E5%85%B0%E5%BE%B7-stewart-brand-%E7%9C%8B%E5%88%B0%E4%BA%86%E6%9C%AA%E6%9D%A5-e65ea9f05d86"
 draft: false
 ---
 

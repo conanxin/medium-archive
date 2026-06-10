@@ -3,6 +3,7 @@ title: "047.As We May Think 07"
 description: "继续介绍“As We May Think”，这篇文章展现出来的愿景激励和启发了一代又一代的人，接下来将花些时间介绍这篇文章。首先会摘录这篇文章的内容（中文翻译），然后会加上一些自己的理解。中文翻译来自李博阳，正文内容如下："
 pubDate: 2016-02-16T14:43:01.413Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/047-as-we-may-think-07-cd682f4d382e"
 draft: false
 ---
 

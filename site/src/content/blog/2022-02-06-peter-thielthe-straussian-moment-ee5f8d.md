@@ -3,6 +3,7 @@ title: "彼得·泰尔（Peter Thiel）：施特劳斯式的时刻（The Strauss
 description: "原文：The Straussian Moment (Peter Thiel)"
 pubDate: 2022-02-06T12:13:34.194Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E5%BD%BC%E5%BE%97-%E6%B3%B0%E5%B0%94-peter-thiel-%E6%96%BD%E7%89%B9%E5%8A%B3%E6%96%AF%E5%BC%8F%E7%9A%84%E6%97%B6%E5%88%BB-the-straussian-moment-ae1b93ee5f8d"
 draft: false
 ---
 

@@ -3,6 +3,7 @@ title: "Dynamicland的社区学习"
 description: "我认为计算的未来必须迎来公平的未来。作为一个非白人非男性视角一直被低估的人，我的目标是让那些没有被主流文化所代表的人成为创造新媒介的一部分。这个目标与我的经历非常相关，但它也与Dynamicland的任务重叠，Dynamicland是一家位于奥克兰的社区空间和研究实验室。Dyna…"
 pubDate: 2020-02-05T05:08:37.736Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/dynamicland%E7%9A%84%E7%A4%BE%E5%8C%BA%E5%AD%A6%E4%B9%A0-4b2f3119c3ee"
 draft: false
 ---
 

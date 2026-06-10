@@ -3,6 +3,7 @@ title: "“全球”的一部分：《最后的全球概览》（The Last Whole 
 description: "编译自：Parts of a Whole Earth: An exploration of the origins of The Last Whole Earth Catalog"
 pubDate: 2019-10-18T13:59:08.718Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E5%85%A8%E7%90%83-%E7%9A%84%E4%B8%80%E9%83%A8%E5%88%86-%E6%9C%80%E5%90%8E%E7%9A%84%E5%85%A8%E7%90%83%E6%A6%82%E8%A7%88-the-last-whole-earth-catalog-%E7%9A%84%E8%B5%B7%E6%BA%90%E6%8E%A2%E7%A9%B6-a8265caaa4fe"
 draft: false
 ---
 

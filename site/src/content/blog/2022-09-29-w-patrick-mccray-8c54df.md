@@ -3,6 +3,7 @@ title: "帕特里克·麦克雷（W. Patrick McCray）：日本大工程"
 description: "1970 年 3 月 18 日，当时日本的一位公主置身大阪郊区巨大圆顶建筑的中心，在几位政要、艺术家、工程师和企业高管的注视下，优雅地剪断系于神道教祭坛的红色大气球上的缎带。天花板内的扬声器传出隆隆声。气球逐渐升空，在墙壁和天花板的巨大球面镜中越来越小。"
 pubDate: 2022-09-29T02:00:18.268Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E5%B8%95%E7%89%B9%E9%87%8C%E5%85%8B-%E9%BA%A6%E5%85%8B%E9%9B%B7-w-patrick-mccray-%E6%97%A5%E6%9C%AC%E5%A4%A7%E5%B7%A5%E7%A8%8B-798a8e8c54df"
 draft: false
 ---
 

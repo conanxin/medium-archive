@@ -3,6 +3,7 @@ title: "编译自：2018年10月《连线》杂志的文章：Stewart Brand and 
 description: "玛丽亚·斯特雷辛斯基（Maria Streshinsky）：当我很小的时候，我去了“新游戏锦标赛”（the New Games Tournament）。"
 pubDate: 2019-03-19T13:42:50.322Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E7%BC%96%E8%AF%91%E8%87%AA-2018%E5%B9%B410%E6%9C%88-%E8%BF%9E%E7%BA%BF-%E6%9D%82%E5%BF%97%E7%9A%84%E6%96%87%E7%AB%A0-stewart-brand-and-the-tools-to-make-the-whole-earth-12cb886399ea"
 draft: false
 ---
 

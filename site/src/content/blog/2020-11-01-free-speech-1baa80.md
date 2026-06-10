@@ -3,6 +3,7 @@ title: "副标题：改变互联网的经济和数字基础设施，以促进言
 description: "原文：Protocols, Not Platforms: A Technological Approach to Free Speech （2019）"
 pubDate: 2020-11-01T01:09:22.721Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E5%89%AF%E6%A0%87%E9%A2%98-%E6%94%B9%E5%8F%98%E4%BA%92%E8%81%94%E7%BD%91%E7%9A%84%E7%BB%8F%E6%B5%8E%E5%92%8C%E6%95%B0%E5%AD%97%E5%9F%BA%E7%A1%80%E8%AE%BE%E6%96%BD-%E4%BB%A5%E4%BF%83%E8%BF%9B%E8%A8%80%E8%AE%BA%E8%87%AA%E7%94%B1-free-speech-487c5d1baa80"
 draft: false
 ---
 

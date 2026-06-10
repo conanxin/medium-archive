@@ -3,6 +3,7 @@ title: "SharingStudio — — 三维虚拟设计社区"
 description: "SharingStudio是一个拥有三维交互虚拟界面的网络设计社区。它的界面基于虚拟现实情况，无论是设计师的作品还是设计发生所在地都被虚拟地表现SharingStudio里。SharingStudio基于Webgl，HTML和node.js，它的运行无需任何插件。它的虚拟界面包含…"
 pubDate: 2018-03-27T06:06:07.098Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/sharingstudio-%E4%B8%89%E7%BB%B4%E8%99%9A%E6%8B%9F%E8%AE%BE%E8%AE%A1%E7%A4%BE%E5%8C%BA-116a8b570f47"
 draft: false
 ---
 

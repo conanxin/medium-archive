@@ -3,6 +3,7 @@ title: "Aspen Magazine：一个盒子里的三维多媒体杂志"
 description: "Phyllis Johnson在1965年到1971年出版了这本Aspen艺术多媒体杂志。跟传统的杂志不同，每一期的Aspen都有一个设计别致的小盒子，里面装着留声机唱片、海报、明信片等等──其中一期还有一卷Super-8…"
 pubDate: 2019-10-15T13:57:47.893Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/aspen-magazine-%E4%B8%80%E4%B8%AA%E7%9B%92%E5%AD%90%E9%87%8C%E7%9A%84%E4%B8%89%E7%BB%B4%E5%A4%9A%E5%AA%92%E4%BD%93%E6%9D%82%E5%BF%97-48582e0e67e"
 draft: false
 ---
 

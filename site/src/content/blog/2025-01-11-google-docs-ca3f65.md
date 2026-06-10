@@ -3,6 +3,7 @@ title: "Google Docs 从未解决的问题"
 description: "当我们创建 Google Docs 时，我们的目标是“解决协作问题”。事实证明，这是一个复杂的问题，我们只完成了第一步。"
 pubDate: 2025-01-11T01:57:56.630Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/google-docs-%E4%BB%8E%E6%9C%AA%E8%A7%A3%E5%86%B3%E7%9A%84%E9%97%AE%E9%A2%98-133a55ca3f65"
 draft: false
 ---
 

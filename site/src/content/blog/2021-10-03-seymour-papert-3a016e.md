@@ -3,6 +3,7 @@ title: "思考未来学校时对技术中心主义的批判（Seymour Papert）"
 description: "内容基于西摩·佩珀特（Seymour Papert）在“信息时代的儿童:创造、创新和新活动的机会”（Children in an Information Age: Opportunities for Creativity, Innovation, and New…"
 pubDate: 2021-10-03T14:02:15.182Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E6%80%9D%E8%80%83%E6%9C%AA%E6%9D%A5%E5%AD%A6%E6%A0%A1%E6%97%B6%E5%AF%B9%E6%8A%80%E6%9C%AF%E4%B8%AD%E5%BF%83%E4%B8%BB%E4%B9%89%E7%9A%84%E6%89%B9%E5%88%A4-seymour-papert-b709e23a016e"
 draft: false
 ---
 

@@ -3,6 +3,7 @@ title: "LEGO Mindstorms: The Structure of an Engineering Revolution（乐高机�
 description: "1. Introduction"
 pubDate: 2018-03-24T02:10:57.076Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/lego-mindstorms-the-structure-of-an-engineering-revolution-%E4%B9%90%E9%AB%98%E6%9C%BA%E5%99%A8%E4%BA%BA-%E5%B7%A5%E7%A8%8B%E7%BB%93%E6%9E%84%E7%9A%84%E9%9D%A9%E5%91%BD-33008a64e168"
 draft: false
 ---
 

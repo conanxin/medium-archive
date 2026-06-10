@@ -3,6 +3,7 @@ title: "论社会主义控制论、加速主义（Accelerationist）梦想和堤
 description: "尼基塔·赫鲁晓夫怀疑计算机是否有助于推动历史走向共产主义。尽管如此，他还是愿意试一试，定制了一台超级计算机，为苏联社会主义提供经济支持。最有才华和训练有素的苏联工程师安装了计算机，完成后请他直接测试机器。赫鲁晓夫仍然没有被说服，他决定提出一个难以想象的复杂问题：“共产主义何时会实…"
 pubDate: 2020-02-22T12:49:26.578Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E8%AE%BA%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E6%8E%A7%E5%88%B6%E8%AE%BA-%E5%8A%A0%E9%80%9F%E4%B8%BB%E4%B9%89-accelerationist-%E6%A2%A6%E6%83%B3%E5%92%8C%E5%A0%A4%E6%98%86-tiqqun-%E5%99%A9%E6%A2%A6-75841bab70f6"
 draft: false
 ---
 

@@ -3,6 +3,7 @@ title: "《Whole Earth》第八章：Anonymity（匿名性）"
 description: "阿特·克莱纳(Art Kleiner)是加州大学伯克利分校新闻学院的一名苦苦挣扎的研究生，当时他决定给斯图尔特·布兰德(Stewart Brand)发送一份不同寻常的提案。"
 pubDate: 2022-10-16T12:03:02.709Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/whole-earth-%E7%AC%AC%E5%85%AB%E7%AB%A0-anonymity-%E5%8C%BF%E5%90%8D%E6%80%A7-34c0bac27858"
 draft: false
 ---
 

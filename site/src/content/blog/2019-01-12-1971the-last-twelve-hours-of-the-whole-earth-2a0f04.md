@@ -3,6 +3,7 @@ title: "编译自1971年《滚石》杂志上的一篇文章：“The Last Twelv
 description: "“全球”的死亡是一场“守丧”，就像任何好的“守丧”一样，它持续到清晨，1500人在为死者的遗产讨价还价。这份两万美元的财产是由《全球概览》的创始人斯图尔特·布兰德对前来庆祝《最后的全球概览（The Last Whole Earth…"
 pubDate: 2019-01-12T01:33:47.747Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E7%BC%96%E8%AF%91%E8%87%AA1971%E5%B9%B4-%E6%BB%9A%E7%9F%B3-%E6%9D%82%E5%BF%97%E4%B8%8A%E7%9A%84%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0-the-last-twelve-hours-of-the-whole-earth-bfd0ed2a0f04"
 draft: false
 ---
 

@@ -3,6 +3,7 @@ title: "Design: The Dymaxion American"
 description: "He has been called “the first poet of technology,” “the greatest living genius of industrial-technical realization in building,” “an…"
 pubDate: 2018-04-01T11:53:38.421Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/design-the-dymaxion-american-dd7b269eb19"
 draft: false
 ---
 

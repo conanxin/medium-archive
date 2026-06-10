@@ -3,6 +3,7 @@ title: "后个体主义（The Post-Individual）"
 description: "在互联网上，我们可以成为任何我们想要的人。我们可以从无数的特质中选择，无论是真实的还是想象中的，并且从那个视角在线上表达自己和生活。"
 pubDate: 2024-05-05T13:10:51.107Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E4%BD%9B%E6%95%99%E7%BB%8F%E6%B5%8E%E5%AD%A6-e-f-%E8%88%92%E9%A9%AC%E8%B5%AB-424b0c9adaeb"
 draft: false
 ---
 

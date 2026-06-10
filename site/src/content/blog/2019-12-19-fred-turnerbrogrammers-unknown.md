@@ -3,6 +3,7 @@ title: "不作恶：弗雷德·特纳（Fred Turner）谈乌托邦、前沿和Br
 description: "弗雷德·特纳是研究硅谷的权威之一。作为斯坦福大学的教授和前记者，他撰写了大量关于科技政治和文化的文章。我们和他坐下来讨论了硅谷是如何看待自己的，以及当科技行业表示想要拯救世界时，这意味着什么。"
 pubDate: 2019-12-19T12:47:57.005Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E4%B8%8D%E4%BD%9C%E6%81%B6-%E5%BC%97%E9%9B%B7%E5%BE%B7-%E7%89%B9%E7%BA%B3-fred-turner-%E8%B0%88%E4%B9%8C%E6%89%98%E9%82%A6-%E5%89%8D%E6%B2%BF%E5%92%8Cbrogrammers-4a41f3d32613"
 draft: false
 ---
 

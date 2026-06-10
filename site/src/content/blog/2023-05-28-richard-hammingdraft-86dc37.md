@@ -3,6 +3,7 @@ title: "理查德·汉明（Richard Hamming）：你和你的研究（Draft）"
 description: "很高兴来到这里。我演讲的题目是“你和你的研究”（You and Your…"
 pubDate: 2023-05-28T04:44:42.929Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E7%90%86%E6%9F%A5%E5%BE%B7-%E6%B1%89%E6%98%8E-richard-hamming-%E4%BD%A0%E5%92%8C%E4%BD%A0%E7%9A%84%E7%A0%94%E7%A9%B6-draft-9bcca786dc37"
 draft: false
 ---
 

@@ -3,6 +3,7 @@ title: "The Marginalian 诞生18周年来的18条生活经验"
 description: "在人生的某个时刻，你会意识到没有人能教你如何过自己的生活 — — 无论是你的父母还是你的偶像，哲学家或诗人，你的文科教育或你的十二步计划，教堂、治疗或托尔斯泰。无论这些指导多么有价值，这些智慧多么贴切，在最后你会发现，你只能通过自己的双脚走在自己意识的树冠下，来开辟生活的道路…"
 pubDate: 2024-10-26T11:16:18.963Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/the-marginalian-%E8%AF%9E%E7%94%9F18%E5%91%A8%E5%B9%B4%E6%9D%A5%E7%9A%8418%E6%9D%A1%E7%94%9F%E6%B4%BB%E7%BB%8F%E9%AA%8C-495e0853cf4e"
 draft: false
 ---
 

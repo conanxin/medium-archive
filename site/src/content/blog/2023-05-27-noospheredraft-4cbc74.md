@@ -3,6 +3,7 @@ title: "Noosphere，一种思维协议。（Draft）"
 description: "Noosphere是一种思想协议。它建立在IPFS之上，构成了一个全球性的知识图谱。"
 pubDate: 2023-05-27T10:11:14.864Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/noosphere-%E4%B8%80%E7%A7%8D%E6%80%9D%E7%BB%B4%E5%8D%8F%E8%AE%AE-draft-7cd8504cbc74"
 draft: false
 ---
 

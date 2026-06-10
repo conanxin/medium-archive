@@ -3,6 +3,7 @@ title: "《Whole Earth》：Epilogue（后记）"
 description: "它们的颜色是辉煌的。"
 pubDate: 2022-10-23T07:09:34.642Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/whole-earth-%E7%AC%AC%E5%8D%81%E7%AB%A0-float-upstream-%E5%90%91%E4%B8%8A%E6%B8%B8%E6%B5%AE%E5%8A%A8-77f9a0521ae1"
 draft: false
 ---
 

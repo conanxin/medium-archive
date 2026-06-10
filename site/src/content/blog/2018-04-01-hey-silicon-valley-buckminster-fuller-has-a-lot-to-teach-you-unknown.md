@@ -3,6 +3,7 @@ title: "Hey Silicon Valley — Buckminster Fuller Has a Lot to Teach You"
 description: "If someone mentions Buckminster Fuller, you probably think of buckyballs, those spherical molecules of 60 or more carbon atoms. Or maybe…"
 pubDate: 2018-04-01T07:25:46.480Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/hey-silicon-valley-buckminster-fuller-has-a-lot-to-teach-you-f4b55ab9d566"
 draft: false
 ---
 

@@ -3,6 +3,7 @@ title: "我家的派对：Darius Kazemi 谈人性化社交媒体（Draft）"
 description: "在过去的几年里，人们逐渐远离 Facebook、Twitter 和 Instagram 等主要社交网站。有些人离开是为了整理他们的数字生活，而另一些人离开是因为平台不再提供他们来这里寻求的东西：社区。但如果你正在寻找社区，你会去哪里？"
 pubDate: 2023-05-26T05:21:24.990Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E6%88%91%E5%AE%B6%E7%9A%84%E6%B4%BE%E5%AF%B9-darius-kazemi-%E8%B0%88%E4%BA%BA%E6%80%A7%E5%8C%96%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93-824ff8704089"
 draft: false
 ---
 

@@ -3,6 +3,7 @@ title: "原文出自The Free Press于 2025–11–07 刊出的文章“Peter Thi
 description: "在一封如今广为传播的 2020 年电子邮件中，这位硅谷亿万富翁预言了社会主义的兴起。今天，他向 The Free Press 讲述了他是如何知道这一点的。"
 pubDate: 2025-11-08T01:05:20.924Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E5%8E%9F%E6%96%87%E5%87%BA%E8%87%AAthe-free-press%E4%BA%8E-2025-11-07-%E5%88%8A%E5%87%BA%E7%9A%84%E6%96%87%E7%AB%A0-peter-thiel-capitalism-isnt-working-for-young-people-%E4%BD%9C%E8%80%85-edb23fe8b853"
 draft: false
 ---
 

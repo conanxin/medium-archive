@@ -3,6 +3,7 @@ title: "How the Web Was Won"
 description: "Fifty years ago, in response to the surprise Soviet launch of Sputnik（苏联发射人造卫星）, the U.S. military set up the Advanced Research Projects…"
 pubDate: 2018-04-05T06:33:49.720Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/how-the-web-was-won-18e5c036e641"
 draft: false
 ---
 

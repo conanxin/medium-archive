@@ -3,6 +3,7 @@ title: "帕特里克·麦克雷（W. Patrick McCray）：生存的艺术"
 description: "原文：Art Lessons From the 1970s For Survival In An Ecologically Blighted World"
 pubDate: 2022-09-27T14:12:57.206Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E5%B8%95%E7%89%B9%E9%87%8C%E5%85%8B-%E9%BA%A6%E5%85%8B%E9%9B%B7-w-patrick-mccray-%E7%94%9F%E5%AD%98%E7%9A%84%E8%89%BA%E6%9C%AF-4490d0806ebe"
 draft: false
 ---
 

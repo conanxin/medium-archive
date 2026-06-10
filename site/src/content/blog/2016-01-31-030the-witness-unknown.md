@@ -3,6 +3,7 @@ title: "030.无更新，游戏The Witness"
 description: "今天去小姨家，无更新。不过今天从表弟那里了解到一个有趣的游戏《The Witness》，这是Jonathan Blow的新作。Jonathan Blow是谁？Jonathan…"
 pubDate: 2016-01-31T14:16:48.416Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/031-%E6%97%A0%E6%9B%B4%E6%96%B0-%E6%B8%B8%E6%88%8Fthe-witness-927f61c7a941"
 draft: false
 ---
 

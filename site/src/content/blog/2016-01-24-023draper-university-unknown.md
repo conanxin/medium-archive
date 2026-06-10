@@ -3,6 +3,7 @@ title: "023.关于Draper University"
 description: "今天真的很冷，在最冷的这一天下午去三里屯参加了一个活动，活动内容是围绕着Draper University展开的。"
 pubDate: 2016-01-24T05:54:03.990Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/023-%E5%85%B3%E4%BA%8Edraper-university-53d3bd33c341"
 draft: false
 ---
 

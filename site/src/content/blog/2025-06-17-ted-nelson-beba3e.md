@@ -3,6 +3,7 @@ title: "《我们将如何思考》：网络原初梦想家 Ted Nelson 的遗产
 description: "1945年网络的愿景"
 pubDate: 2025-06-17T12:44:02.118Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E6%88%91%E4%BB%AC%E5%B0%86%E5%A6%82%E4%BD%95%E6%80%9D%E8%80%83-%E7%BD%91%E7%BB%9C%E5%8E%9F%E5%88%9D%E6%A2%A6%E6%83%B3%E5%AE%B6-ted-nelson-%E7%9A%84%E9%81%97%E4%BA%A7-5f8fbbbeba3e"
 draft: false
 ---
 

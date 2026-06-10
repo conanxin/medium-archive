@@ -3,6 +3,7 @@ title: "詹姆斯·鲍德温（James Baldwin）：创作的历程"
 description: "或许艺术家的主要特征在于，他必须主动培养一种大多数人必然要避免的状态：孤独的状态。当关键时刻来临时，所有人都孤独，这是一种陈词滥调 — —…"
 pubDate: 2024-10-27T12:40:29.379Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E8%A9%B9%E5%A7%86%E6%96%AF-%E9%B2%8D%E5%BE%B7%E6%B8%A9-james-baldwin-%E5%88%9B%E4%BD%9C%E7%9A%84%E5%8E%86%E7%A8%8B-9eed23fe2766"
 draft: false
 ---
 

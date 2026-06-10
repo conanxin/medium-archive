@@ -3,6 +3,7 @@ title: "去中心化社交媒体（Decentralize Social Media）"
 description: "社交媒体网络的中心化已经给社交媒体平台及其用户带来一堆问题。其中包括侵犯隐私权，并造就了审核数十亿用户内容等不可能完成的任务。"
 pubDate: 2021-03-21T08:12:13.472Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E5%8E%BB%E4%B8%AD%E5%BF%83%E5%8C%96%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93-decentralize-social-media-bb26af87d84d"
 draft: false
 ---
 

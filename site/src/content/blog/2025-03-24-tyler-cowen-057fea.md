@@ -3,6 +3,7 @@ title: "泰勒·科文（Tyler Cowen）：想要了解一切的人"
 description: "泰勒·科文（Tyler Cowen）是硅谷最受欢迎的经济学家。在人工智能时代，他对知识的渴求还有容身之地吗？"
 pubDate: 2025-03-24T14:22:38.905Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E6%B3%B0%E5%8B%92-%E7%A7%91%E6%96%87-tyler-cowen-%E6%83%B3%E8%A6%81%E4%BA%86%E8%A7%A3%E4%B8%80%E5%88%87%E7%9A%84%E4%BA%BA-8ad77d057fea"
 draft: false
 ---
 

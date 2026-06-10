@@ -3,6 +3,7 @@ title: "029.Something about Lovelace"
 description: "Lovelace于1833年6月第一次遇见Charles Babbage，通过他们共同的朋友Mary Somerville。当月晚些时候，Babbage邀请Lovelace来看他的Difference…"
 pubDate: 2016-01-29T15:36:25.412Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/029-something-about-lovelace-ad3b6dbc5ba7"
 draft: false
 ---
 

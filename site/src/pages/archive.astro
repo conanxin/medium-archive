@@ -1,0 +1,51 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const posts = (await getCollection('blog'))
+  .filter(p => p.data.draft !== true)
+  .sort((a, b) => {
+    const da = a.data.pubDate ? new Date(a.data.pubDate).getTime() : 0;
+    const db = b.data.pubDate ? new Date(b.data.pubDate).getTime() : 0;
+    return db - da;
+  });
+
+// Group by year-month
+const groups = new Map();
+posts.forEach(post => {
+  const d = post.data.pubDate ? new Date(post.data.pubDate) : null;
+  const key = d ? `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}` : 'unknown';
+  if (!groups.has(key)) groups.set(key, []);
+  groups.get(key).push(post);
+});
+
+const sortedKeys = Array.from(groups.keys()).sort().reverse();
+---
+
+<BaseLayout title="归档 - Medium Archive">
+  <style>
+    .archive { max-width: var(--max-width); margin: 0 auto; }
+    .archive h1 { font-size: 1.5rem; font-weight: 700; margin: 0 0 1.5rem; }
+    .year-month { margin-bottom: 2rem; }
+    .year-month h2 { font-size: 1.1rem; font-weight: 600; margin: 0 0 0.75rem; color: var(--accent); border-bottom: 1px solid var(--border); padding-bottom: 0.25rem; }
+    .post-link { display: block; padding: 0.4rem 0; font-size: 0.95rem; }
+    .post-date { font-size: 0.8rem; color: var(--muted); margin-right: 0.5rem; }
+  </style>
+
+  <div class="archive">
+    <h1>文章归档</h1>
+    <p style="font-size: 0.9rem; color: var(--muted); margin-bottom: 1.5rem;">共 {posts.length} 篇文章</p>
+
+    {sortedKeys.map(key => (
+      <div class="year-month">
+        <h2>{key}</h2>
+        {groups.get(key).map(post => (
+          <a class="post-link" href={`/blog/${post.slug}/`}>
+            <span class="post-date">{post.data.pubDate ? new Date(post.data.pubDate).toLocaleDateString('zh-CN', { month: '2-digit', day: '2-digit' }) : '--'}</span>
+            {post.data.title}
+          </a>
+        ))}
+      </div>
+    ))}
+  </div>
+</BaseLayout>

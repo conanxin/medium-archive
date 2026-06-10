@@ -3,6 +3,7 @@ title: "艾伦·凯：预测未来（Predicting The Future）"
 description: "以下是艾伦·凯（Alan Kay）在斯坦福计算机论坛（Stanford Computer Forum）第20届年会上的讲话。（1989年）"
 pubDate: 2020-01-07T15:18:46.417Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E8%89%BE%E4%BC%A6-%E5%87%AF-%E9%A2%84%E6%B5%8B%E6%9C%AA%E6%9D%A5-predicting-the-future-91482954c61"
 draft: false
 ---
 

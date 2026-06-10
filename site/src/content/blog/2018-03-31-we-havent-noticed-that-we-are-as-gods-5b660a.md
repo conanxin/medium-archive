@@ -3,6 +3,7 @@ title: "“We haven’t noticed that we are as gods”"
 description: "HANS ULRICH OBRIST IN CONVERSATION WITH STEWART BRAND"
 pubDate: 2018-03-31T09:32:10.706Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/we-havent-noticed-that-we-are-as-gods-4f683f5b660a"
 draft: false
 ---
 

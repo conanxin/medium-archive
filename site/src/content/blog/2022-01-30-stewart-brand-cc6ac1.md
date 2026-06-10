@@ -3,6 +3,7 @@ title: "斯图尔特·布兰德（Stewart Brand）谈开始和保持好奇心"
 description: "原文：Stewart Brand on Starting Things and Staying Curious"
 pubDate: 2022-01-30T15:46:19.747Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9-%E5%B8%83%E5%85%B0%E5%BE%B7-stewart-brand-%E8%B0%88%E5%BC%80%E5%A7%8B%E5%92%8C%E4%BF%9D%E6%8C%81%E5%A5%BD%E5%A5%87%E5%BF%83-a11116cc6ac1"
 draft: false
 ---
 

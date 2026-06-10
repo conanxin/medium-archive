@@ -3,6 +3,7 @@ title: "《Offscreen》的采访（Craig Mod）：关于写作、出版、创业
 description: "编译自：Offscreen Magazine Interview: Notes on writing, publishing, startups, life, and disconnection"
 pubDate: 2019-06-20T15:24:49.331Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/offscreen-%E7%9A%84%E9%87%87%E8%AE%BF-craig-mod-%E5%85%B3%E4%BA%8E%E5%86%99%E4%BD%9C-%E5%87%BA%E7%89%88-%E5%88%9B%E4%B8%9A-%E7%94%9F%E6%B4%BB%E5%92%8C%E5%88%86%E7%A6%BB%E7%9A%84%E7%AC%94%E8%AE%B0-a72711b3e885"
 draft: false
 ---
 

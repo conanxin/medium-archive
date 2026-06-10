@@ -3,6 +3,7 @@ title: "传记 Whole Earth：回顾斯图尔特·布兰德（Stewart Brand）的
 description: "约翰·马科夫 (John Markoff)是普利策奖得主，自1977年以来一直报道硅谷，他在1980年代初就认识斯图尔特·布兰德（Stewart Brand）。他在最近出版的《全球概览：斯图尔特·布兰德的许多人生》(Whole Earth: the Many Lives of…"
 pubDate: 2022-03-27T02:43:38.337Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E4%BC%A0%E8%AE%B0-whole-earth-%E5%9B%9E%E9%A1%BE%E6%96%AF%E5%9B%BE%E5%B0%94%E7%89%B9-%E5%B8%83%E5%85%B0%E5%BE%B7-stewart-brand-%E7%9A%84%E8%A1%8C%E6%98%9F%E5%BD%B1%E5%93%8D-planetary-impact-646a69e8f0a3"
 draft: false
 ---
 

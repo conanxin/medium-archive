@@ -3,6 +3,7 @@ title: "如何培养你的人工智能：与艾莉森·戈普尼克（Alison Gop
 description: "今天的人工智能系统所引发的日益增长的恐惧和兴奋，源于一种假设：随着它们的改进，某种东西 — — 某个人？ — — 将会出现：向大型语言模型（LLMs）提供足够的文本，而不是仅仅从数据中提取统计模式，它们将变成能够理解世界的智能代理。"
 pubDate: 2024-07-06T12:28:31.495Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E5%A6%82%E4%BD%95%E5%9F%B9%E5%85%BB%E4%BD%A0%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD-%E4%B8%8E%E8%89%BE%E8%8E%89%E6%A3%AE-%E6%88%88%E6%99%AE%E5%B0%BC%E5%85%8B-alison-gopnik-%E5%92%8C%E6%A2%85%E6%8B%89%E5%A6%AE-%E7%B1%B3%E5%88%87%E5%B0%94-melanie-mitchell-%E7%9A%84%E5%AF%B9%E8%AF%9D-48b039b35c1e"
 draft: false
 ---
 

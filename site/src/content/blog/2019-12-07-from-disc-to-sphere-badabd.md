@@ -3,6 +3,7 @@ title: "从圆盘到球体：占据全球（From Disc to Sphere）"
 description: "编译自：From Disc to Sphere: Taking on the whole earth"
 pubDate: 2019-12-07T06:49:08.993Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E4%BB%8E%E5%9C%86%E7%9B%98%E5%88%B0%E7%90%83%E4%BD%93-%E5%8D%A0%E6%8D%AE%E5%85%A8%E7%90%83-from-disc-to-sphere-829bebadabd"
 draft: false
 ---
 

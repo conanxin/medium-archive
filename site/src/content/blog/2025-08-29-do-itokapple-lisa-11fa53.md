@@ -3,6 +3,7 @@ title: "从“DO IT”到“OK”：Apple Lisa 与图形界面的诞生与遗产
 description: "你这一生点击过多少次“OK”？我个人已经数不清了。从上世纪 90 年代我第一次在 Macintosh 上点下“OK”开始，它就成为计算机世界中无处不在的同意语言 — — 无数大小决策的确认。"
 pubDate: 2025-08-29T13:05:31.872Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E4%BB%8E-do-it-%E5%88%B0-ok-apple-lisa-%E4%B8%8E%E5%9B%BE%E5%BD%A2%E7%95%8C%E9%9D%A2%E7%9A%84%E8%AF%9E%E7%94%9F%E4%B8%8E%E9%81%97%E4%BA%A7-07a5e611fa53"
 draft: false
 ---
 

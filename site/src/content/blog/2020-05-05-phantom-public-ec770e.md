@@ -3,6 +3,7 @@ title: "幻影公众（Phantom Public）"
 description: "副标题：我们是否已经失去了激励早期互联网的深刻的民主愿景？"
 pubDate: 2020-05-05T07:51:27.302Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E5%B9%BB%E5%BD%B1%E5%85%AC%E4%BC%97-phantom-public-ed8568ec770e"
 draft: false
 ---
 

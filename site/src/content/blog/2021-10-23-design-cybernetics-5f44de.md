@@ -3,6 +3,7 @@ title: "设计控制论（Design Cybernetics）导论"
 description: "摘要：控制论（cybernetics）是在第二次世界大战期间，在技术和科学进步的基础上，在20世纪中期兴起的，它影响了设计理论和研究。控制论（cybernetics）最初被认为是一种理论框架，是一种跨越学科边界的通用语言，但人们很快就在以目标为导向的控制工程中发现了更突出的应用。…"
 pubDate: 2021-10-23T09:35:32.201Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E8%AE%BE%E8%AE%A1%E6%8E%A7%E5%88%B6%E8%AE%BA-design-cybernetics-%E5%AF%BC%E8%AE%BA-95a73f5f44de"
 draft: false
 ---
 

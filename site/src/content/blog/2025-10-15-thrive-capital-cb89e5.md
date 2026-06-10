@@ -3,6 +3,7 @@ title: "新世界：乔舒亚·库什纳与 Thrive Capital 的崛起"
 description: "这篇文章题为《The New World: Joshua Kushner, Thrive Capital, and the American dream》，由Jeremy Stern撰写，发布于Colossus杂志。文章详细介绍了风险投资公司Thrive…"
 pubDate: 2025-10-15T15:00:52.744Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E6%96%B0%E4%B8%96%E7%95%8C-%E4%B9%94%E8%88%92%E4%BA%9A-%E5%BA%93%E4%BB%80%E7%BA%B3%E4%B8%8E-thrive-capital-%E7%9A%84%E5%B4%9B%E8%B5%B7-05b19ccb89e5"
 draft: false
 ---
 

@@ -3,6 +3,7 @@ title: "A Biography of the Pixel：我们沉浸在数字光影中"
 description: "在皮克斯联合创始人 Alvy Ray Smith 的一本书中，不起眼的像素得到了应有的关注。"
 pubDate: 2022-06-10T15:46:32.617Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/a-biography-of-the-pixel-%E6%88%91%E4%BB%AC%E6%B2%89%E6%B5%B8%E5%9C%A8%E6%95%B0%E5%AD%97%E5%85%89%E5%BD%B1%E4%B8%AD-156400a36165"
 draft: false
 ---
 

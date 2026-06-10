@@ -3,6 +3,7 @@ title: "《计算机解放》（Computer Lib）/《梦想机器》（Dream Machi
 description: "《计算机解放/梦想机器》（Computer Lib/Dream Machines）是泰德·尼尔森（Ted…"
 pubDate: 2019-12-31T11:19:12.618Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%A3%E6%94%BE-computer-lib-%E6%A2%A6%E6%83%B3%E6%9C%BA%E5%99%A8-dream-machines-8068c93f7a8e"
 draft: false
 ---
 

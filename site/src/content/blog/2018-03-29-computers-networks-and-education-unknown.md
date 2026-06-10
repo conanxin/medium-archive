@@ -3,6 +3,7 @@ title: "Computers, Networks and Education"
 description: "The physicist Murray Gell-Mann（默里·盖尔曼） has remarked that Education in the twentieth century is like being taken to the world’s greatest…"
 pubDate: 2018-03-29T12:54:25.114Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/computers-networks-and-education-f15927270d70"
 draft: false
 ---
 

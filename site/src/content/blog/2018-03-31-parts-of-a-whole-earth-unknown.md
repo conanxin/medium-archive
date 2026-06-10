@@ -3,6 +3,7 @@ title: "Parts of a Whole Earth"
 description: "An exploration of the origins of The Last Whole Earth Catalog（探索全球概览的起源）"
 pubDate: 2018-03-31T09:27:36.974Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E6%96%B0%E5%AA%92%E4%BB%8B%E4%B8%8E%E5%88%9B%E6%96%B0%E6%80%9D%E7%BB%B4-%E9%80%9A%E8%AE%AF%E6%8A%80%E6%9C%AF%E7%9A%84%E7%A4%BE%E4%BC%9A%E5%BD%B1%E5%93%8D-%E8%B5%AB%E4%BC%AF%E7%89%B9-%E9%AB%98%E5%BE%B7%E6%B1%89%E5%A7%86-d49f9dc1424a"
 draft: false
 ---
 

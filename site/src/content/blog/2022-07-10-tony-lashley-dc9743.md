@@ -3,6 +3,7 @@ title: "策展治理：Tony Lashley访谈"
 description: "Tony Lashley 是 Marine Snow 的创始人，这是一种面向音乐爱好者的社交网络和流媒体的新方法，用户可以在没有企业利益或营销的独立平台上收听和流式传输音乐。他之前曾在 Spotify、SoundCloud 和 Frank Ocean 的 BLONDED…"
 pubDate: 2022-07-10T17:50:54.609Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E7%AD%96%E5%B1%95%E6%B2%BB%E7%90%86-tony-lashley%E8%AE%BF%E8%B0%88-9b8c9edc9743"
 draft: false
 ---
 

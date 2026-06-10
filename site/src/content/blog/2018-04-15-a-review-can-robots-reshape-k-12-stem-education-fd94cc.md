@@ -3,6 +3,7 @@ title: "A review: Can robots reshape K-12 STEM education?"
 description: "Abstract——Can robots in classroom reshape K-12 STEM education, and foster new ways of learning? To sketch an answer, this article reviews…"
 pubDate: 2018-04-15T13:42:06.997Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/a-review-can-robots-reshape-k-12-stem-education-5983ccfd94cc"
 draft: false
 ---
 

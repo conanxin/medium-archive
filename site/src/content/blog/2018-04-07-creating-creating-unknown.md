@@ -3,6 +3,7 @@ title: "Creating Creating"
 description: "STEWART BRAND"
 pubDate: 2018-04-07T09:26:42.616Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/creating-creating-d84abf8d1ece"
 draft: false
 ---
 

@@ -3,6 +3,7 @@ title: "我们需要一种新的“进步科学”（Science of Progress）"
 description: "副标题：人类需要更好地知道如何变得更好。 这是软件基础设施公司Stripe的联合创始人帕特里克•科利森（Patrick Collison）和乔治梅森大学（George Mason University）的经济学家泰勒•考恩（Tyler Cowen）在《大西洋月刊》（The…"
 pubDate: 2020-05-03T00:10:12.762Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E6%88%91%E4%BB%AC%E9%9C%80%E8%A6%81%E4%B8%80%E7%A7%8D%E6%96%B0%E7%9A%84-%E8%BF%9B%E6%AD%A5%E7%A7%91%E5%AD%A6-science-of-progress-8af44dea90fa"
 draft: false
 ---
 

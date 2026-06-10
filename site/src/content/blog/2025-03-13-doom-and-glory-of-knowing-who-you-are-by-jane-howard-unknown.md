@@ -3,6 +3,7 @@ title: "Doom and glory of knowing who you are by JANE HOWARD"
 description: "In today’s literary circles it is a sign of considerable chic to know James Baldwin well enough to refer to him as Jimmy. Baldwin’s…"
 pubDate: 2025-03-13T12:51:53.645Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E4%BD%9C%E5%AE%B6%E7%9A%84%E8%8D%A3%E8%80%80%E4%B8%8E%E5%9B%B0%E5%A2%83-%E8%A9%B9%E5%A7%86%E6%96%AF-%E9%B2%8D%E5%BE%B7%E6%B8%A9%E7%9A%84%E8%87%AA%E6%88%91%E6%8E%A2%E7%B4%A2-8f61adb5908b"
 draft: false
 ---
 

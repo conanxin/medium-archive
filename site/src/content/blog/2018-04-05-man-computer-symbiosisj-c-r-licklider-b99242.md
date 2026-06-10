@@ -3,6 +3,7 @@ title: "Man-Computer Symbiosis（J. C. R. Licklider）"
 description: "人机共生"
 pubDate: 2018-04-05T05:33:57.482Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E9%BB%91%E5%AE%A2-%E8%AE%A1%E7%AE%97%E6%9C%BA%E9%9D%A9%E5%91%BD%E7%9A%84%E8%8B%B1%E9%9B%84-%E9%BB%91%E5%AE%A2%E4%BC%A6%E7%90%86-269ea47bc2ec"
 draft: false
 ---
 

@@ -3,6 +3,7 @@ title: "巴克敏斯特·富勒在1962年预言了在线教育，加入了TED、
 description: "编译自：Buckminster Fuller Presages Online Education, with a Touch of TED, Netflix, and Pandora, in 1962"
 pubDate: 2019-10-22T15:15:33.980Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E5%B7%B4%E5%85%8B%E6%95%8F%E6%96%AF%E7%89%B9-%E5%AF%8C%E5%8B%92%E5%9C%A81962%E5%B9%B4%E9%A2%84%E8%A8%80%E4%BA%86%E5%9C%A8%E7%BA%BF%E6%95%99%E8%82%B2-%E5%8A%A0%E5%85%A5%E4%BA%86ted-netflix%E5%92%8Cpandora%E7%9A%84%E5%85%83%E7%B4%A0-675bb57c5a8a"
 draft: false
 ---
 

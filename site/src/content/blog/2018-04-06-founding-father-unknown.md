@@ -3,6 +3,7 @@ title: "Founding Father"
 description: "STEWART BRAND"
 pubDate: 2018-04-06T13:36:33.343Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/the-eccentric-genius-whose-time-may-have-finally-come-again-fcdd1f8a9786"
 draft: false
 ---
 

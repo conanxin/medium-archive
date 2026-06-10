@@ -3,6 +3,7 @@ title: "数字原住民：虚拟现实梦想家 Jaron Lanier 和 Kevin Kelly 之
 description: "虚拟现实的兴衰"
 pubDate: 2022-06-19T11:46:06.369Z
 source: "Medium"
+originalUrl: "https://medium.com/@conanxin/%E6%95%B0%E5%AD%97%E5%8E%9F%E4%BD%8F%E6%B0%91-%E8%99%9A%E6%8B%9F%E7%8E%B0%E5%AE%9E%E6%A2%A6%E6%83%B3%E5%AE%B6-jaron-lanier-%E5%92%8C-kevin-kelly-%E4%B9%8B%E9%97%B4%E7%9A%84%E5%AF%B9%E8%AF%9D-1d312971fa2d"
 draft: false
 ---
 
