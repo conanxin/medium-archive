@@ -1,0 +1,183 @@
+{
+  "scan_time": "2026-06-10",
+  "total_markdown": 1016,
+  "frontmatter_complete": 1014,
+  "empty_title_count": 0,
+  "empty_title_files": [],
+  "suspicious_title_count": 0,
+  "suspicious_title_files": [],
+  "missing_pubDate_count": 2,
+  "missing_pubDate_files": [
+    "unknown--4e0d89.md",
+    "unknown--c1cc9e.md"
+  ],
+  "invalid_pubDate_count": 0,
+  "invalid_pubDate_files": [],
+  "default_pubDate_count": 0,
+  "empty_description_count": 16,
+  "missing_originalUrl_count": 2,
+  "draft_anomaly_count": 0,
+  "empty_body_count": 0,
+  "short_body_count": 0,
+  "short_body_files": [],
+  "slug_anomaly_count": 314,
+  "slug_anomaly_files": [
+    "2015-12-10--56d20c.md",
+    "2017-03-31--eded58.md",
+    "2018-03-20--447061.md",
+    "2018-03-20--b6ce15.md",
+    "2018-03-20--e8b570.md",
+    "2018-03-20--f5026c.md",
+    "2018-03-23--30d7cb.md",
+    "2018-03-23--999509.md",
+    "2018-03-24--ce6eb4.md",
+    "2018-03-24--d8c5a4.md",
+    "2018-03-24--e3d1ac.md",
+    "2018-03-24--fafd42.md",
+    "2018-03-25--341b42.md",
+    "2018-03-26--8f3fe2.md",
+    "2018-03-27--0609e4.md",
+    "2018-03-27--8b560e.md",
+    "2018-03-27--d15cc0.md",
+    "2018-03-27--f3648d.md",
+    "2018-03-28--2a44cb.md",
+    "2018-03-28--30c05b.md"
+  ],
+  "duplicate_titles_count": 0,
+  "duplicate_titles": [],
+  "duplicate_slugs_count": 0,
+  "title_garbled_count": 0,
+  "title_garbled_files": [],
+  "body_garbled_count": 0,
+  "body_garbled_files": [],
+  "html_noise_count": 8,
+  "html_noise_files": [
+    "2018-11-18--e66ae8.md",
+    "2018-11-21-1968-b2ec02.md",
+    "2020-01-05-hypercard-286314.md",
+    "2022-06-19-apple-1986-ipad-4ca6e3.md",
+    "2022-10-01-douglas-engelbart-881064.md",
+    "2023-04-04-john-cage-7f9efa.md",
+    "2024-07-17-ollos-01d9d3.md",
+    "2025-08-18-80-9f9ee6.md"
+  ],
+  "formatting_issues_count": 0,
+  "formatting_issues_files": [],
+  "image_stats": {
+    "total_references": 735,
+    "unique_urls": 734,
+    "remote_urls": 732,
+    "local_urls": 2,
+    "medium_cdn_urls": 732,
+    "non_medium_remote": 0,
+    "data_uri_count": 0,
+    "http_non_https": 0,
+    "sampled_count": 200,
+    "status_200": 0,
+    "status_3xx": 12,
+    "status_403": 0,
+    "status_404": 0,
+    "status_timeout": 187,
+    "status_error": 1,
+    "image_domains_top20": [
+      [
+        "cdn-images-1.medium.com",
+        733
+      ],
+      [
+        "example.com",
+        2
+      ]
+    ]
+  },
+  "link_stats": {
+    "total_references": 2496,
+    "unique_urls": 2177,
+    "medium_links": 28,
+    "external_links": 2466,
+    "empty_anchor_links": 0,
+    "http_non_https": 417,
+    "link_domains_top20": [
+      [
+        "en.wikipedia.org",
+        701
+      ],
+      [
+        "link.zhihu.com",
+        530
+      ],
+      [
+        "zhuanlan.zhihu.com",
+        239
+      ],
+      [
+        "mp.weixin.qq.com",
+        108
+      ],
+      [
+        "zhida.zhihu.com",
+        80
+      ],
+      [
+        "zh.wikipedia.org",
+        79
+      ],
+      [
+        "www.ubu.com",
+        54
+      ],
+      [
+        "book.douban.com",
+        32
+      ],
+      [
+        "medium.com",
+        24
+      ],
+      [
+        "www.wired.com",
+        21
+      ],
+      [
+        "www.nytimes.com",
+        17
+      ],
+      [
+        "museapp.com",
+        16
+      ],
+      [
+        "example.com",
+        11
+      ],
+      [
+        "www.douban.com",
+        10
+      ],
+      [
+        "books.google.com",
+        10
+      ],
+      [
+        "www.youtube.com",
+        10
+      ],
+      [
+        "www.vanityfair.com",
+        10
+      ],
+      [
+        "www.newyorker.com",
+        10
+      ],
+      [
+        "archive.vanityfair.com",
+        10
+      ],
+      [
+        "www.amazon.com",
+        9
+      ]
+    ]
+  }
+}
